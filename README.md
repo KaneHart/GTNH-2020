@@ -1,6 +1,6 @@
 
 
-# This is Stone Legion's 2020 GT New Horizons Mod Pack Server / Client Changes
+# Stone Legion 2020 GTNH Server Changes & Client Additions!
 
 ## Why the Changes? 
 
