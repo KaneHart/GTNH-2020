@@ -4,11 +4,11 @@
 
 ## Why the Changes? 
 
-Simply putting it we don't agree with all the changes that are made and so we customize a few things on both the server and client that we feel is more fitting for our community. That being said we don't force the requirement of having our client side at all.
+Simply put we don't agree with all the changes that are made so we customize a few things on both the server and client that we feel are more fitting for our community. That being said we don't force the requirement of having our client side at all (you will be able to join our server with the stock client).
 
-## Why the Changes? 
+## When will the server be up?  
 
-First Quater of 2020. We don't have an exact date we still have to purchase hardware, etc yet for the launch. 
+First Quater of 2020. We don't have an exact date as we still have to purchase hardware, do testing and cofiguration for the launch. 
 
 ## What will the server Specs Be?
 
