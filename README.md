@@ -12,7 +12,7 @@ Most of our changes are slight changes, some client configs, maybe a loot table 
 
 ## When will the server be up?  
 
-First Quater of 2020. We don't have an exact date as we still have to purchase hardware, do testing and cofiguration for the launch. 
+First Quarter of 2020. We don't have an exact date as we still have to purchase hardware, do testing and configuration for the launch. 
 
 ## What will the server Specs Be?
 
