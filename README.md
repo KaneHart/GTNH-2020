@@ -1,6 +1,6 @@
 
 
-# Stone Legion 2020 GTNH Server Changes & Client Additions!
+# Stone Legion 2020 GTNH Server & Client Changes!
 
 ## Why the Changes? 
 
