@@ -23,3 +23,7 @@
 ### Removed Client Folders (Mostly For Testing Client As Server)
 * resourcepacks
 * resources
+
+### Removed Client Configs (Mostly For Testing Client As Server)
+roguelike_dungeons
+LootGames
