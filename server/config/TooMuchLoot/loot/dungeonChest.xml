@@ -21,7 +21,6 @@
     <loot item="minecraft:record_ward" damage="0" weight="5" count_min="1" count_max="1"/>
     <loot item="minecraft:record_11" damage="0" weight="5" count_min="1" count_max="1"/>
     <loot item="minecraft:record_wait" damage="0" weight="5" count_min="1" count_max="1"/>
-	<loot item="minecraft:blaze_rod" damage="0" weight="5" count_min="1" count_max="3"/>
     <loot item="OpenBlocks:technicolorGlasses" damage="0" weight="2" count_min="1" count_max="1"/>
     <loot item="AWWayofTime:standardBindingAgent" damage="0" weight="6" count_min="1" count_max="3"/>
     <loot item="AWWayofTime:mundanePowerCatalyst" damage="0" weight="4" count_min="1" count_max="1"/>

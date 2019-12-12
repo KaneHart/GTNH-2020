@@ -13,7 +13,6 @@
 	<loot item="minecraft:trapdoor" damage="0" weight="20" count_min="1" count_max="2"/>
 	<loot item="minecraft:activator_rail" damage="0" weight="10" count_min="2" count_max="4"/>
 	<loot item="minecraft:wooden_door" damage="0" weight="20" count_min="2" count_max="4"/>
-	<loot item="minecraft:blaze_rod" damage="0" weight="10" count_min="2" count_max="4"/>
 	<loot item="minecraft:comparator" damage="0" weight="10" count_min="1" count_max="2"/>
 	<loot item="minecraft:repeater" damage="0" weight="10" count_min="1" count_max="2"/>
 </LootGroup>

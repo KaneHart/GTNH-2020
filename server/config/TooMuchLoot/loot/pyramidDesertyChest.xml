@@ -4,7 +4,6 @@
     <loot item="minecraft:rotten_flesh" damage="0" weight="16" count_min="3" count_max="7"/>
     <loot item="minecraft:saddle" damage="0" weight="3" count_min="1" count_max="1"/>
     <loot item="minecraft:enchanted_book" damage="0" weight="1" count_min="1" count_max="1"/>
-	<loot item="minecraft:blaze_rod" damage="0" weight="5" count_min="1" count_max="3"/>
     <loot item="HardcoreEnderExpansion:adventurers_diary" damage="0" weight="5" count_min="1" count_max="1"/>
     <loot item="HardcoreEnderExpansion:temple_caller" damage="0" weight="1" count_min="0" count_max="1"/>
     <loot item="HardcoreEnderExpansion:knowledge_note" damage="0" nbt="{pts:40b}" weight="3" count_min="1" count_max="1"/>
