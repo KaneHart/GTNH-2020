@@ -1,9 +1,11 @@
-// --- Chunk Loader
-//Remove Steve's Cart Chunk Loader
+// --- Chunk Loaders
+//We Promote the use of Personal / Passive Anchors
+//Remove SC Chunk Loader
 recipes.remove(<StevesCarts:CartModule:49>);
 
-//Remove RC World / Passive Anchor (Personal Still Exists)
+//Remove OC Chunk Loader
 recipes.remove(<ore:oc:chunkloaderUpgrade>);
+
+//Remove RC World Anchor
 recipes.remove(<Railcraft:machine.alpha>);
-recipes.remove(<Railcraft:machine.alpha:13>);
-recipes.removeShaped(<Railcraft:cart.anchor>);
+
