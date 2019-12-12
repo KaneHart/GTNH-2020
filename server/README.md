@@ -12,8 +12,6 @@
 * DefaultWorldGenerator-1.7.10-0.1-b13-universal.jar
 * gtneioreplugin-1.7.10-1.0.7.jar
 * IC2+Nei+Plugin+Version+1.7.10-1.2.2.jar
-* InGameInfoXML-1.7.10-2.8.1.82-universal.jar
-* LunatriusCore-1.7.10-1.1.2.21-universal.jar
 * MouseTweaks-2.4.4-mc1.7.10.jar
 * OptiFine_1.7.10_HD_U_D6.jar
 * ReAuth-3.5.0.jar
