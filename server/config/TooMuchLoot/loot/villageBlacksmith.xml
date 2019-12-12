@@ -13,7 +13,6 @@
     <loot item="BiomesOPlenty:misc" damage="1" weight="25" count_min="2" count_max="8"/>
     <loot item="BiomesOPlenty:wadingBoots" damage="0" weight="5" count_min="1" count_max="1"/>
     <loot item="BiomesOPlenty:flippers" damage="0" weight="5" count_min="1" count_max="1"/>
-    <loot item="HardcoreEnderExpansion:temple_caller" damage="0" weight="1" count_min="0" count_max="1"/>
     <loot item="HardcoreEnderExpansion:knowledge_note" damage="0" nbt="{pts:40b}" weight="3" count_min="1" count_max="1"/>
     <loot item="HardcoreEnderExpansion:knowledge_note" damage="0" nbt="{pts:30b}" weight="6" count_min="1" count_max="1"/>
     <loot item="HardcoreEnderExpansion:knowledge_note" damage="0" nbt="{pts:20b}" weight="9" count_min="1" count_max="1"/>
