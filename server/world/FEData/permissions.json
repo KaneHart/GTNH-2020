@@ -1,0 +1,436 @@
+{
+  "worldZones": {
+    "-1": {
+      "dimensionID": -1,
+      "areaZones": [],
+      "id": 11,
+      "playerPermissions": {},
+      "groupPermissions": {}
+    },
+    "0": {
+      "dimensionID": 0,
+      "areaZones": [],
+      "id": 16,
+      "playerPermissions": {},
+      "groupPermissions": {}
+    },
+    "64": {
+      "dimensionID": 64,
+      "areaZones": [],
+      "id": 30,
+      "playerPermissions": {},
+      "groupPermissions": {}
+    },
+    "1": {
+      "dimensionID": 1,
+      "areaZones": [],
+      "id": 15,
+      "playerPermissions": {},
+      "groupPermissions": {}
+    },
+    "2": {
+      "dimensionID": 2,
+      "areaZones": [],
+      "id": 13,
+      "playerPermissions": {},
+      "groupPermissions": {}
+    },
+    "69": {
+      "dimensionID": 69,
+      "areaZones": [],
+      "id": 17,
+      "playerPermissions": {},
+      "groupPermissions": {}
+    },
+    "70": {
+      "dimensionID": 70,
+      "areaZones": [],
+      "id": 14,
+      "playerPermissions": {},
+      "groupPermissions": {}
+    },
+    "7": {
+      "dimensionID": 7,
+      "areaZones": [],
+      "id": 10,
+      "playerPermissions": {},
+      "groupPermissions": {}
+    },
+    "81": {
+      "dimensionID": 81,
+      "areaZones": [],
+      "id": 20,
+      "playerPermissions": {},
+      "groupPermissions": {}
+    },
+    "82": {
+      "dimensionID": 82,
+      "areaZones": [],
+      "id": 21,
+      "playerPermissions": {},
+      "groupPermissions": {}
+    },
+    "83": {
+      "dimensionID": 83,
+      "areaZones": [],
+      "id": 24,
+      "playerPermissions": {},
+      "groupPermissions": {}
+    },
+    "84": {
+      "dimensionID": 84,
+      "areaZones": [],
+      "id": 32,
+      "playerPermissions": {},
+      "groupPermissions": {}
+    },
+    "85": {
+      "dimensionID": 85,
+      "areaZones": [],
+      "id": 31,
+      "playerPermissions": {},
+      "groupPermissions": {}
+    },
+    "86": {
+      "dimensionID": 86,
+      "areaZones": [],
+      "id": 40,
+      "playerPermissions": {},
+      "groupPermissions": {}
+    },
+    "25": {
+      "dimensionID": 25,
+      "areaZones": [],
+      "id": 26,
+      "playerPermissions": {},
+      "groupPermissions": {}
+    },
+    "28": {
+      "dimensionID": 28,
+      "areaZones": [],
+      "id": 41,
+      "playerPermissions": {},
+      "groupPermissions": {}
+    },
+    "29": {
+      "dimensionID": 29,
+      "areaZones": [],
+      "id": 27,
+      "playerPermissions": {},
+      "groupPermissions": {}
+    },
+    "30": {
+      "dimensionID": 30,
+      "areaZones": [],
+      "id": 18,
+      "playerPermissions": {},
+      "groupPermissions": {}
+    },
+    "31": {
+      "dimensionID": 31,
+      "areaZones": [],
+      "id": 22,
+      "playerPermissions": {},
+      "groupPermissions": {}
+    },
+    "32": {
+      "dimensionID": 32,
+      "areaZones": [],
+      "id": 19,
+      "playerPermissions": {},
+      "groupPermissions": {}
+    },
+    "33": {
+      "dimensionID": 33,
+      "areaZones": [],
+      "id": 25,
+      "playerPermissions": {},
+      "groupPermissions": {}
+    },
+    "227": {
+      "dimensionID": 227,
+      "areaZones": [],
+      "id": 3,
+      "playerPermissions": {},
+      "groupPermissions": {}
+    },
+    "35": {
+      "dimensionID": 35,
+      "areaZones": [],
+      "id": 37,
+      "playerPermissions": {},
+      "groupPermissions": {}
+    },
+    "228": {
+      "dimensionID": 228,
+      "areaZones": [],
+      "id": 2,
+      "playerPermissions": {},
+      "groupPermissions": {}
+    },
+    "100": {
+      "dimensionID": 100,
+      "areaZones": [],
+      "id": 9,
+      "playerPermissions": {},
+      "groupPermissions": {}
+    },
+    "36": {
+      "dimensionID": 36,
+      "areaZones": [],
+      "id": 39,
+      "playerPermissions": {},
+      "groupPermissions": {}
+    },
+    "37": {
+      "dimensionID": 37,
+      "areaZones": [],
+      "id": 28,
+      "playerPermissions": {},
+      "groupPermissions": {}
+    },
+    "38": {
+      "dimensionID": 38,
+      "areaZones": [],
+      "id": 43,
+      "playerPermissions": {},
+      "groupPermissions": {}
+    },
+    "39": {
+      "dimensionID": 39,
+      "areaZones": [],
+      "id": 33,
+      "playerPermissions": {},
+      "groupPermissions": {}
+    },
+    "40": {
+      "dimensionID": 40,
+      "areaZones": [],
+      "id": 35,
+      "playerPermissions": {},
+      "groupPermissions": {}
+    },
+    "41": {
+      "dimensionID": 41,
+      "areaZones": [],
+      "id": 36,
+      "playerPermissions": {},
+      "groupPermissions": {}
+    },
+    "42": {
+      "dimensionID": 42,
+      "areaZones": [],
+      "id": 23,
+      "playerPermissions": {},
+      "groupPermissions": {}
+    },
+    "43": {
+      "dimensionID": 43,
+      "areaZones": [],
+      "id": 38,
+      "playerPermissions": {},
+      "groupPermissions": {}
+    },
+    "44": {
+      "dimensionID": 44,
+      "areaZones": [],
+      "id": 46,
+      "playerPermissions": {},
+      "groupPermissions": {}
+    },
+    "173": {
+      "dimensionID": 173,
+      "areaZones": [],
+      "id": 6,
+      "playerPermissions": {},
+      "groupPermissions": {}
+    },
+    "45": {
+      "dimensionID": 45,
+      "areaZones": [],
+      "id": 34,
+      "playerPermissions": {},
+      "groupPermissions": {}
+    },
+    "46": {
+      "dimensionID": 46,
+      "areaZones": [],
+      "id": 42,
+      "playerPermissions": {},
+      "groupPermissions": {}
+    },
+    "47": {
+      "dimensionID": 47,
+      "areaZones": [],
+      "id": 44,
+      "playerPermissions": {},
+      "groupPermissions": {}
+    },
+    "112": {
+      "dimensionID": 112,
+      "areaZones": [],
+      "id": 4,
+      "playerPermissions": {},
+      "groupPermissions": {}
+    },
+    "48": {
+      "dimensionID": 48,
+      "areaZones": [],
+      "id": 47,
+      "playerPermissions": {},
+      "groupPermissions": {}
+    },
+    "49": {
+      "dimensionID": 49,
+      "areaZones": [],
+      "id": 29,
+      "playerPermissions": {},
+      "groupPermissions": {}
+    },
+    "50": {
+      "dimensionID": 50,
+      "areaZones": [],
+      "id": 12,
+      "playerPermissions": {},
+      "groupPermissions": {}
+    },
+    "55": {
+      "dimensionID": 55,
+      "areaZones": [],
+      "id": 8,
+      "playerPermissions": {},
+      "groupPermissions": {}
+    },
+    "56": {
+      "dimensionID": 56,
+      "areaZones": [],
+      "id": 7,
+      "playerPermissions": {},
+      "groupPermissions": {}
+    },
+    "60": {
+      "dimensionID": 60,
+      "areaZones": [],
+      "id": 5,
+      "playerPermissions": {},
+      "groupPermissions": {}
+    },
+    "63": {
+      "dimensionID": 63,
+      "areaZones": [],
+      "id": 45,
+      "playerPermissions": {},
+      "groupPermissions": {}
+    }
+  },
+  "playerGroups": {},
+  "id": 1,
+  "playerPermissions": {
+    "(fefefefe-fefe-fefe-fefe-fefefefefefe|$SERVER)": {
+      "*": "true",
+      "fe.internal.player.known": "true"
+    },
+    "(fefefefe-fefe-fefe-fefe-fefefefefecc|$RCON)": {
+      "*": "true",
+      "fe.internal.player.known": "true"
+    },
+    "(fefefefe-fefe-fefe-fefe-fefefefefecb|$COMMANDBLOCK)": {
+      "*": "true",
+      "fe.internal.player.known": "true"
+    },
+    "(88d1fcdc-0b18-442a-b78f-6fa25acabb97|Kane_Hart)": {
+      "fe.internal.player.known": "true"
+    }
+  },
+  "groupPermissions": {
+    "_PLAYERS_": {
+      "fe.internal.group.priority": "1",
+      "fe.internal.group": "true"
+    },
+    "_NPC_": {
+      "fe.internal.group.name": "NPCs",
+      "fe.internal.group.priority": "1",
+      "fe.internal.group": "true"
+    },
+    "_FAKEPLAYERS_": {
+      "fe.internal.group.priority": "15",
+      "fe.internal.group": "true",
+      "fe.protection.*": "true"
+    },
+    "_OPS_": {
+      "fe.internal.prefix": "[\u0026cOP\u0026f]",
+      "fe.internal.group.priority": "50",
+      "fe.internal.group": "true"
+    },
+    "_ALL_": {
+      "some.test.permission": "true",
+      "fe.internal.group.name": "players",
+      "fe.internal.group.priority": "0",
+      "fe.internal.group": "true"
+    },
+    "_CREATIVE_": {
+      "fe.internal.group": "true"
+    },
+    "_ADVENTURE_": {
+      "fe.internal.group": "true"
+    },
+    "_GUESTS_": {
+      "fe.internal.player.name": "\u0026a[G]",
+      "fe.internal.group.priority": "10",
+      "fe.internal.group": "true",
+      "fe.internal.group.includes": "member",
+      "mytown.cmd.*": "true",
+      "mytown.cmd.outsider.map": "false",
+      "mytown.cmd.assistant.ranks.perm.*": "false",
+      "mytown.cmd.assistant.perm.*": "false",
+      "mytown.cmd.everyone.perm.*": "false",
+      "mytown.cmd.everyone.spawn.*": "false",
+      "mytown.cmd.everyone.wild.*": "false",
+      "mytown.cmd.everyone.bank.*": "false",
+      "mytown.cmd.assistant.bank.*": "false",
+      "mytown.cmd.everyone.plot.*": "false",
+      "mytown.cmd.assistant.setspawn.*": "false",
+      "mytown.cmd.everyone.select.*": "false",
+      "mytown.cmd.assistant.claim.chunkload.*": "false",
+      "mytown.cmd.assistant.claim.chunkunload.*": "false",
+      "mytown.cmd.outsider.list.*": "false",
+      "command.*": "false",
+      "fe.commands.*": "false",
+      "fe.questioner.*": "false",
+      "fe.perm.*": "false",
+      "fe.protection.cmd.*": "false",
+      "fe.chat.*": "false",
+      "fe.pl.*": "false",
+      "fe.teleport.*": "false",
+      "fe.core.pos.*": "false",
+      "command.list": "true",
+      "command.tell": "true",
+      "command.tps": "true",
+      "fe.chat.pm": "true",
+      "fe.chat.reply": "true",
+      "fe.chat.chat": "true",
+      "fe.chat.urls": "true",
+      "fe.commands.seen": "true",
+      "fe.commands.ping": "true",
+      "fe.commands.help": "true"
+    },
+    "supporter": {
+      "fe.internal.prefix": "\u0026a[S]",
+      "fe.internal.group.priority": "30",
+      "fe.internal.group": "true",
+      "fe.internal.group.includes": "_GUESTS_"
+    },
+    "moderator": {
+      "fe.internal.prefix": "\u0026a[M]",
+      "fe.internal.group.priority": "40",
+      "fe.internal.group": "true",
+      "fe.internal.group.includes": "supporter"
+    },
+    "admin": {
+      "fe.internal.prefix": "\u0026a[A]",
+      "fe.internal.group.priority": "50",
+      "fe.internal.group": "true",
+      "fe.internal.group.includes": "moderator"
+    }
+  }
+}
