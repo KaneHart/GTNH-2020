@@ -8,9 +8,10 @@
 * FTBUtilities-1.7.10-1.0.18.3.jar
 * FTBLib-1.7.10-1.0.18.3.jar
 
-### Temp Mods:
-* Chunk+Pregenerator+V1.7.10-2.1.jar - World Gen.
-/pregen gen startradius square 0 0 b8000
+### Temp Mod World Gen:
+* Chunk+Pregenerator+V1.7.10-2.1.jar - Chunk Gen
+* Chicken+Chunk+Patcher+1.1.jar - Patch To Prevent Crash
+* Command: /pregen gen startradius square 0 0 b8000
 
 
   
