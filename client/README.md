@@ -1,6 +1,6 @@
 ## Client Changes
 
-### Removed Mods:
+### Removed Client Mods:
 * fastcraft-1.23.jar
 
 ### Added Client Mods:
