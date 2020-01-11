@@ -4,7 +4,21 @@
 * LootGames - One Boring game, cheap loot, more world gen.
 * roguelike - easily exploitable, cheap loot, more world gen, makes messy world at times.
 
-### Removed Client Mods (Mostly For Testing Client as Server):
+### Added Mods:
+* HardcoreDarkness-MC1.7.10-1.7.jar
+* FTBUtilities-1.7.10-1.0.18.3.jar
+* FTBLib-1.7.10-1.0.18.3.jar
+
+
+
+
+
+
+
+
+
+
+### Removed Client Mods (This For Testing Only When Using Client For Server):
 * BeeBetterAtBees-0.3.jar
 * BetterAchievements-1.7.10-0.1.0.jar
 * Controlling-1.7.10-1.0.0.jar
@@ -18,10 +32,10 @@
 * ResourceLoader-MC1.7.10-1.3.jar
 * tcnodetracker-1.7.10-1.1.2.jar
 
-### Removed Client Folders (Mostly For Testing Client As Server)
+### Removed Client Folders (This For Testing Only When Using Client For Server):
 * resourcepacks
 * resources
 
-### Removed Client Configs (Mostly For Testing Client As Server)
+### Removed Client Configs (This For Testing Only When Using Client For Server):
 roguelike_dungeons
 LootGames
