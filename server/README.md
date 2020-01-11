@@ -5,9 +5,12 @@
 * roguelike - easily exploitable, cheap loot, more world gen, makes messy world at times.
 
 ### Added Mods:
-* HardcoreDarkness-MC1.7.10-1.7.jar
 * FTBUtilities-1.7.10-1.0.18.3.jar
 * FTBLib-1.7.10-1.0.18.3.jar
+
+### Temp Mods:
+* Chunk+Pregenerator+V1.7.10-2.1.jar - World Gen.
+/pregen gen startradius square 0 0 b8000
 
 
   
