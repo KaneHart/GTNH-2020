@@ -2,13 +2,14 @@
 
 # Stone Legion 2020 GTNH Server & Client Changes!
 
-## Why GTNH in 2020?
+## Why GregTech New Horizons in 2020?
 
-Pretty much it comes down to the most simple thing ever. GTNH is one of the best Modpacks that continues to be updated and worked on as we speak. Minecraft 1.7 Might be 7 years old, but this pack is always feeling fresh and always constantly being updated with new content. That is why we decided to start a fresh server in 2020 with new hardware and using the latest 2.0.8.0 Update.
+Pretty much it comes down to the most simple thing ever. GTNH is one of the best Modpacks that continues to be updated and worked on as we speak. Minecraft 1.7 Might be 7 years old, but this pack is always feeling fresh and always constantly being updated with new content. That is why we decided to start a fresh server in 2020 with new hardware and using the latest 2.0.8.0+ Update. Just to give you an Idea this was the Patch notes for 2.0.8.0 / 2.0.8.1: https://gist.github.com/KaneHart/b0cff63c6789cb6d69819a0be5b54cd5
+That is right they added an entire new mod made for GTNH... That is the kind of amazing things you see. 
 
 # Why Changes?
 
-Most of our changes are slight changes, some client configs, maybe a loot table nerf and world gen change here and there. Were not changing the packages recipes, etc. Just closing a few early game loop holes that we feel gives the game fair start. Also might add a client side mod or 2 as well server side to help manage the server and make the gameplay more enjoyable. 
+We want our server to be a bit more unique and not giving out free loot, etc. Most of our tweaks are minor and we don't mess with the progression, quests, etc. We just tweaking a few things like world gen, loot tables from chests, etc. We want to offer a more balanced and enjoyable server that everyone has a more fair and equal start. We also sometimes might nerf the functions of early game travel like the hang glider that can cause a lot of performance impacts and also removes the enjoyment of other methods of travel like Trains.
 
 ## When will the server be up?  
 
@@ -26,7 +27,7 @@ First Quarter of 2020. We don't have an exact date as we still have to purchase 
 - Rosewill RSV-R4100-4U Rackmount Server Case/Chassis - 8 Internal Bays
 - As well as Backup Sata Mechanical Drive for longer term backups. 
 
-## Can I donate Towards the New Server & Hardware?
+## How will donations work?
 
 That would be amazing. You can imagine the above specs are a bit costly so every little bit helps. My paypal information is kanechart@gmail.com and I thank you so much ahead of time!
 
