@@ -516,15 +516,3 @@ mods.thaumcraft.Research.addInfusionPage("FILTEREDFUMEFUNNEL", <witchery:filtere
 mods.thaumcraft.Warp.addToResearch("FILTEREDFUMEFUNNEL", 2);
 
 // --- Waystone
-mods.thaumcraft.Research.addResearch("WAYSTONE", "WITCHERY", "motus 15, iter 12, tenebrae 9, praecantatio 6", 8, -4, 4, <witchery:ingredient:12>);
-game.setLocalization("tc.research_name.WAYSTONE", "Waystone");
-game.setLocalization("tc.research_text.WAYSTONE", "[WI] Teleport");
-mods.thaumcraft.Research.addPrereq("WAYSTONE", "RITUALCHALK", false);
-mods.thaumcraft.Research.setConcealed("WAYSTONE", true);
-mods.thaumcraft.Research.addPage("WAYSTONE", "Witchery.research_page.WAYSTONE");
-game.setLocalization("Witchery.research_page.WAYSTONE", "A waystone is an etched piece of flint that is an important foci for circle magic involving transposition. A waystone can be bound to a specific location using the Rite of Binding described in the book, Witchcraft: Circle Magic.<BR>A bound waystone can also be made by dropping up to eight into a hollow 3x3 circle of Otherwhere runes and waiting.");
-mods.thaumcraft.Infusion.addRecipe("WAYSTONE", <minecraft:flint>, 
-[<witchery:chalkritual>, <witchery:ingredient:7>, <witchery:chalkritual>, <witchery:ingredient:7>, <witchery:chalkritual>, <witchery:ingredient:7>, <witchery:chalkritual>, <witchery:ingredient:7>], 
-"motus 32, iter 16, praecantatio 24, tenebrae 16", <witchery:ingredient:12>, 5);
-mods.thaumcraft.Research.addInfusionPage("WAYSTONE", <witchery:ingredient:12>);
-mods.thaumcraft.Warp.addToResearch("WAYSTONE", 5);
