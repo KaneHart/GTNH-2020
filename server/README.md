@@ -11,7 +11,8 @@
 ### Temp Mod World Gen:
 * Chunk+Pregenerator+V1.7.10-2.1.jar - Chunk Gen
 * Chicken+Chunk+Patcher+1.1.jar - Patch To Prevent Crash
-* Command: /pregen gen startradius square 0 0 b8000
+* Overworld: /pregen gen startradius square 0 0 b8000
+* Nether: /pregen gen startradius square 0 0 b4000 -1
 
 
   
