@@ -3,38 +3,17 @@
 ### Removed Mods:
 * LootGames - One Boring game, cheap loot, more world gen.
 * roguelike - easily exploitable, cheap loot, more world gen, makes messy world at times.
+* RWG-alpha-1.3.2.jar - Old World Gen
 
 ### Added Mods:
-* FTBUtilities-1.7.10-1.0.18.3.jar
-* FTBLib-1.7.10-1.0.18.3.jar
+* RTG-1.7.10-1.1.1.7.jar - New World Gen
+* ClimateControl-0.8.2.jar - Climate Control For New World Gen
 
 ### Temp Mod World Gen:
 * Chunk+Pregenerator+V1.7.10-2.1.jar - Chunk Gen
 * Chicken+Chunk+Patcher+1.1.jar - Patch To Prevent Crash
 * Overworld: /pregen gen startradius square 0 0 b8000
 * Nether: /pregen gen startradius square 0 0 b4000 -1
-
-
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
- 
-
-
-
 
 ### Removed Client Mods (This For Testing Only When Using Client For Server):
 * BeeBetterAtBees-0.3.jar
