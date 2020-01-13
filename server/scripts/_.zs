@@ -20,3 +20,6 @@ recipes.remove(<Railcraft:cart.anchor>);
 
 //Removed Waystone for Teleportation Reasons. Witchery is TO OP
 recipes.remove(<witchery:ingredient:12>);
+
+//Glider Nerf
+<OpenBlocks:hangglider>.addTooltip(format.green("Does Not Work In Overworld, Nether, Twilight"));
