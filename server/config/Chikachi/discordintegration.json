@@ -1,6 +1,6 @@
 {
   "discord": {
-    "token": "",
+    "token": "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
     "ignoresBots": true,
     "allowLinking": true,
     "ignoresUsers": [],
@@ -12,11 +12,97 @@
         "allowDMCommands": false,
         "relayChat": true,
         "messages": {
-          "chatMessage": "[{USER}] {MESSAGE}"
+          "chatMessage": "&c[{USER}]&f {MESSAGE}"
         },
         "commands": []
       },
-      "channels": {}
+      "channels": {
+	    "666510309128929291": {
+        "webhook": "https://ptb.discordapp.com/api/webhooks/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
+          "commandPrefix": "!",
+          "canExecuteCommands": true,
+          "stripMinecraftCodes": true,
+          "allowDMCommands": true,
+          "relayChat": true,
+          "messages": {
+            "chatMessage": "[DISCORD]<{USER}> {MESSAGE}"
+          },
+          "commands": [
+          { // Mute Command
+            "name": "mute",
+            "command": "mute {args}",
+            "enabled": true,
+            "permissions": [
+              "93148033251811328", // Kane
+              "160188199426195456", // Electrobot
+            ]
+          },
+          { // UNMute Command
+            "name": "unmute",
+            "command": "unmute {args}",
+            "enabled": true,
+            "permissions": [
+              "93148033251811328", // Kane
+              "160188199426195456", // Electrobot
+            ]
+          },
+          { // TPL Command
+            "name": "tp",
+            "command": "tp {args}",
+            "enabled": true,
+            "permissions": [
+              "93148033251811328", // Kane
+              "160188199426195456", // Electrobot
+            ]
+          },
+          { // Kick Command
+            "name": "kick",
+            "command": "kick {args}",
+            "enabled": true,
+            "permissions": [
+              "93148033251811328", // Kane
+              "160188199426195456", // Electrobot
+            ]
+          },
+          { // Ban Command
+            "name": "ban",
+            "command": "ban {args}",
+            "enabled": true,
+            "permissions": [
+              "93148033251811328", // Kane
+              "160188199426195456", // Electrobot
+            ]
+          },
+          { // Stop Command
+            "name": "stop",
+            "command": "stop",
+            "enabled": true,
+            "permissions": [
+              "93148033251811328", // Kane
+              "160188199426195456", // Electrobot
+            ]
+          },
+          {
+            "name": "tps",
+            "command": "discord tps",
+            "enabled": true
+          }, {
+            "name": "online",
+            "command": "discord online",
+            "enabled": true
+          }, {
+            "name": "list",
+            "command": "discord online",
+            "enabled": true
+          }, {
+            "name": "whitelist",
+            "command": "whitelist add {args}",
+            "enabled": true
+          },
+          
+          ]
+		}
+      }
     }
   },
   "minecraft": {
@@ -34,10 +120,10 @@
         "chatPrefix": "",
         "canMentionUsers": true,
         "canMentionRoles": true,
-        "discordChannel": [],
+        "discordChannel": [666510309128929291],
         "relayAchievements": true,
         "relayChat": true,
-        "relayCommands": true,
+        "relayCommands": false,
         "relayPlayerJoin": true,
         "relayPlayerLeave": true,
         "relayPlayerDeath": true,
