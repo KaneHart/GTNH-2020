@@ -1,0 +1,16 @@
+{
+  "enabled": true,
+  "center": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "size": {
+    "x": 16000,
+    "y": 0,
+    "z": 16000
+  },
+  "shape": "BOX",
+  "effects": [],
+  "dimID": 7
+}
