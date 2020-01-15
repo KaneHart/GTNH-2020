@@ -415,7 +415,9 @@
       "fe.commands.ping": "true",
       "fe.commands.help": "true",
       "fe.teleport.portalto": "true",
-      "fe.teleport.portalfrom": "true"
+      "fe.teleport.portalfrom": "true",
+      "fe.teleport.crossdim.portalto": "true",
+      "fe.teleport.crossdim.portalfrom": "true"
     },
     "supporter": {
       "fe.internal.prefix": "\u0026a[S]",
