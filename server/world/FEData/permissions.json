@@ -413,7 +413,9 @@
       "fe.chat.urls": "true",
       "fe.commands.seen": "true",
       "fe.commands.ping": "true",
-      "fe.commands.help": "true"
+      "fe.commands.help": "true",
+      "fe.teleport.portalto": "true",
+      "fe.teleport.portalfrom": "true"
     },
     "supporter": {
       "fe.internal.prefix": "\u0026a[S]",
