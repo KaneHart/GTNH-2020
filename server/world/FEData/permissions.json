@@ -323,7 +323,17 @@
       "groupPermissions": {}
     }
   },
-  "playerGroups": {},
+  "playerGroups": {
+    "(88d1fcdc-0b18-442a-b78f-6fa25acabb97|Kane_Hart)": [
+      "admin"
+    ],
+    "(0d15294c-e292-49b3-9827-1e9e3bf36bd7|ElectroBot)": [
+      "admin"
+    ],
+    "(87f78184-3b3c-43ed-baf8-e934abea56f2|EnderArcher)": [
+      "admin"
+    ]
+  },
   "id": 1,
   "playerPermissions": {
     "(fefefefe-fefe-fefe-fefe-fefefefefefe|$SERVER)": {
@@ -339,11 +349,19 @@
       "fe.internal.player.known": "true"
     },
     "(88d1fcdc-0b18-442a-b78f-6fa25acabb97|Kane_Hart)": {
+      "fe.internal.player.groups": "admin",
+      "fe.internal.player.known": "true"
+    },
+    "(0d15294c-e292-49b3-9827-1e9e3bf36bd7|ElectroBot)": {
+      "fe.internal.player.groups": "admin",
+      "fe.internal.player.known": "true"
+    },
+    "(87f78184-3b3c-43ed-baf8-e934abea56f2|EnderArcher)": {
+      "fe.internal.player.groups": "admin",
       "fe.internal.player.known": "true"
     }
   },
-  "groupPermissions": {
-    "_PLAYERS_": {
+  "groupPermissions": {    "_PLAYERS_": {
       "fe.internal.group.priority": "1",
       "fe.internal.group": "true"
     },
@@ -359,7 +377,7 @@
     },
     "_OPS_": {
       "fe.internal.prefix": "[\u0026cOP\u0026f]",
-      "fe.internal.group.priority": "50",
+      "fe.internal.group.priority": "60",
       "fe.internal.group": "true",
       "fe.internal.group.includes": "admin",
       "mytown.*": "true"
@@ -380,7 +398,6 @@
       "fe.internal.player.name": "\u0026a[G]",
       "fe.internal.group.priority": "10",
       "fe.internal.group": "true",
-      "fe.internal.group.includes": "member",
       "mytown.cmd.*": "true",
       "mytown.cmd.outsider.map": "false",
       "mytown.cmd.assistant.ranks.perm.*": "false",
@@ -435,7 +452,12 @@
       "fe.internal.prefix": "\u0026a[A]",
       "fe.internal.group.priority": "50",
       "fe.internal.group": "true",
-      "fe.internal.group.includes": "moderator"
+      "fe.internal.group.includes": "moderator",
+      "fe.teleport.tp": "true",
+      "fe.teleport.from": "true",
+      "fe.teleport.to": "true",
+      "fe.teleport.cooldown": "0",
+      "fe.teleport.warmup": "0"
     }
   }
 }
