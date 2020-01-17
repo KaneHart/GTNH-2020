@@ -457,7 +457,8 @@
       "fe.teleport.from": "true",
       "fe.teleport.to": "true",
       "fe.teleport.cooldown": "0",
-      "fe.teleport.warmup": "0"
+      "fe.teleport.warmup": "0",
+      "command.op": "true"
     }
   }
 }
