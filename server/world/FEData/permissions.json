@@ -446,20 +446,26 @@
       "fe.internal.prefix": "\u0026a[M]",
       "fe.internal.group.priority": "40",
       "fe.internal.group": "true",
-      "fe.internal.group.includes": "supporter"
+      "fe.internal.group.includes": "supporter",
+      "fe.commands.locate": "true",
+      "cfe.commands.tempban": "true",
+      "fe.chat.mute": "true",
+      "fe.teleport.tp": "true",
+      "fe.teleport.from": "true",
+      "fe.teleport.to": "true",
+      "fe.teleport.cooldown": "0",
+      "fe.teleport.warmup": "0",
+      "fe.teleport.top": "0",
+      "fe.teleport.bed": "0"
     },
     "admin": {
       "fe.internal.prefix": "\u0026a[A]",
       "fe.internal.group.priority": "50",
       "fe.internal.group": "true",
       "fe.internal.group.includes": "moderator",
-      "fe.teleport.tp": "true",
-      "fe.teleport.from": "true",
-      "fe.teleport.to": "true",
-      "fe.teleport.cooldown": "0",
-      "fe.teleport.warmup": "0",
       "command.op": "true",
-      "command.deop": "true"
+      "command.deop": "true",
+      "fe.commands.invsee": "true"
     }
   }
 }
