@@ -47,3 +47,6 @@ This is a list of server side changes we make and need to keep an eye from. Thin
 * Find: ```"name:8": "§5§lPersonal Chunkloading",```
 * Replace Full Line: ```desc:8": "Let\u0027s craft some personal chunkloaders.```
 * With: ```"desc:8": "Let\u0027s craft some personal chunkloaders. 3x3 chunks are loaded. You need coins to power the chunkloader that is locked up in MV Tier.\n\nChunk Loader Coin I Can Power Passive Anchor for 12 Hours and a Personal Anchor for 24 Hours. There is 4 Other Tiers of the Coin that increase the fuel time in the Anchors.\n\nPersonal Anchors are loaded  once the owner visits, and stays loaded while the player is logged in. \n\nPassive Anchors are loaded once the owner visits, and stays loaded until the server resets."```
+* **Sleeping Bag Quest Change**
+* Find: ```"desc:8": "Carrying the bed with you all the time the looks```
+* Replace Full Line: ```"desc:8": "As you might know beds don\u0027t let you sleep because you have a rare sleeping disorder called insomnia... Not sure why you think Sleeping Bags would cure your own disorder...\n\nBut heck if you craft one will still give you a reward! "```
