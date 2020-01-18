@@ -22,7 +22,7 @@ recipes.remove(<Railcraft:cart.anchor>);
 recipes.remove(<witchery:ingredient:12>);
 
 //Glider Nerf
-<OpenBlocks:hangglider>.addTooltip(format.green("Does Not Work In Overworld, Nether, Twilight"));
+<OpenBlocks:hangglider>.addTooltip(format.red("Does Not Work In Overworld, Nether, Twilight"));
 
 
 // --- Chunk Loader Coin I
@@ -46,6 +46,8 @@ Assembler.addRecipe(<dreamcraft:item.CoinChunkloaderTierV>, <dreamcraft:item.Coi
 <dreamcraft:item.CoinChunkloaderTierV>.addTooltip(format.green("192H in Passive Chunkloader, 384H in Personal Chunkloader"));
 
 
-
-
+//Sleeping Bags
+<sleepingbag:sleepingBag>.addTooltip(format.red("You Don't Require Sleep, Making This Useless!"));
+<adventurebackpack:backpackComponent:1>.addTooltip(format.red("You Don't Require Sleep, Making This Useless!"));
+<OpenBlocks:sleepingBag>.addTooltip(format.red("You Don't Require Sleep, Making This Useless!"));
 
