@@ -23,3 +23,19 @@ recipes.remove(<witchery:ingredient:12>);
 
 //Glider Nerf
 <OpenBlocks:hangglider>.addTooltip(format.green("Does Not Work In Overworld, Nether, Twilight"));
+
+
+// --- Chunk Loader Coin I
+Assembler.addRecipe(<dreamcraft:item.CoinChunkloaderTierI>, <dreamcraft:item.CoinBlank>, <gregtech:gt.metaitem.03:32079>, <gregtech:gt.integrated_circuit:1> * 0, <liquid:ender> * 3000, 6000, 120);
+
+// --- Chunk Loader Coin II
+Assembler.addRecipe(<dreamcraft:item.CoinChunkloaderTierII>, <dreamcraft:item.CoinBlank>, <gregtech:gt.metaitem.03:32082>, <gregtech:gt.integrated_circuit:2> * 0, <liquid:ender> * 6000, 6000, 480);
+
+// --- Chunk Loader Coin III
+Assembler.addRecipe(<dreamcraft:item.CoinChunkloaderTierIII>, <dreamcraft:item.CoinBlank>, <gregtech:gt.metaitem.03:32083>, <gregtech:gt.integrated_circuit:3> * 0, <liquid:ender> * 12000, 6000, 1920);
+
+// --- Chunk Loader Coin IV
+Assembler.addRecipe(<dreamcraft:item.CoinChunkloaderTierIV>, <dreamcraft:item.CoinBlank>, <gregtech:gt.metaitem.03:32084>, <gregtech:gt.integrated_circuit:4> * 0, <liquid:ender> * 24000, 6000, 7680);
+
+// --- Chunk Loader Coin V
+Assembler.addRecipe(<dreamcraft:item.CoinChunkloaderTierV>, <dreamcraft:item.CoinBlank>, <gregtech:gt.metaitem.03:32087>, <gregtech:gt.integrated_circuit:5> * 0, <liquid:ender> * 48000, 6000, 30720);
