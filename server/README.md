@@ -40,13 +40,27 @@ This is a list of server side changes we make and need to keep an eye from. Thin
 * Search: ```"name:8": "Is this the End? No the END Dimension",```
 * Replace: ```"desc:8": "```
 * With: ```"desc:8": "§4WARNING: Nether, Twilight Forest and End Portals are disabled. You must search the World for an Active Bunker (3 of 12) that can provide you access to the other Dimensions. \n\n§f§0§r```
-* **Anchor to Personal Anchor Change:**
-* Find / Replace: ```Railcraft:cart.anchor```
-* With: ```Railcraft:cart.anchor.personal```
-* **Personal Chunloading Quest Change:**
-* Find: ```"name:8": "§5§lPersonal Chunkloading",```
-* Replace Full Line: ```desc:8": "Let\u0027s craft some personal chunkloaders.```
-* With: ```"desc:8": "Let\u0027s craft some personal chunkloaders. 3x3 chunks are loaded. You need coins to power the chunkloader that is locked up in MV Tier.\n\nChunk Loader Coin I Can Power Passive Anchor for 12 Hours and a Personal Anchor for 24 Hours. There is 4 Other Tiers of the Coin that increase the fuel time in the Anchors.\n\nPersonal Anchors are loaded  once the owner visits, and stays loaded while the player is logged in. \n\nPassive Anchors are loaded once the owner visits, and stays loaded until the server resets."```
-* **Sleeping Bag Quest Change**
-* Find: ```"desc:8": "Carrying the bed with you all the time the looks```
-* Replace Full Line: ```"desc:8": "As you might know beds don\u0027t let you sleep because you have a rare sleeping disorder called insomnia... Not sure why you think Sleeping Bags would cure your own disorder...\n\nBut heck if you craft one will still give you a reward! "```
+
+### DefaultQuests.json Disabled Quests (Just Locked Behind Highest Item):
+
+
+The idea here is to set any quests we don't want showing hidden behind preRequisites ```308```. This is the quest where you earn a Zero Point Module. This normally just use for junk quests like how to set rwg settings on a server, etc.
+
+
+This is a much easier system to update, etc per new version then having to edit / replace parts of quests especially since these are dedicted to nothing we want or need...
+ 
+
+We might steal 1 quest for Server Rules / Info! 
+**Quest ID's To Add 308 Quest as a Requirement:** 
+* ```"questID:3": 1834``` - BoP Mushrooms and Wrong World ID Quest
+* ```"questID:3": 645``` - Glider
+* ```"questID:3": 2406``` - TPS Debug, etc stuff
+* ```"questID:3": 1500``` - Special BQ Info HC mode, etc
+* ```"questID:3": 1501``` - Backup Stuff
+* ```"questID:3": 1495``` - Reloading QB Command Block
+* ```"questID:3": 2404``` - Ender Pearls
+* ```"questID:3": 491``` - Sleeping Bag
+* ```"questID:3": 1528``` - Chunkloaders
+* ```"questID:3": 2014``` - Chunkloaders
+* ```"questID:3": 1180``` - Chunkloaders
+* ```"questID:3": 1379``` - Chunkloaders
