@@ -51,3 +51,5 @@ Assembler.addRecipe(<dreamcraft:item.CoinChunkloaderTierV>, <dreamcraft:item.Coi
 <adventurebackpack:backpackComponent:1>.addTooltip(format.red("You Don't Require Sleep, Making This Useless!"));
 <OpenBlocks:sleepingBag>.addTooltip(format.red("You Don't Require Sleep, Making This Useless!"));
 
+//Eye of Ender Bunker Tip
+<minecraft:ender_eye>.addTooltip(format.red("Nether portals/Strongholds are disabled. Please find one of the 12 bunker to travel off world."));
