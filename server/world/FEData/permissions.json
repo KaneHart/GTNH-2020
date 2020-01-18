@@ -79,7 +79,11 @@
       "fe.internal.group.priority": "60",
       "fe.internal.group": "true",
       "fe.internal.group.includes": "admin",
-      "mytown.*": "true"
+      "mytown.*": "true",
+      "fe.teleport.portalto": "false",
+      "fe.teleport.portalfrom": "false",
+      "fe.teleport.crossdim.portalto": "false",
+      "fe.teleport.crossdim.portalfrom": "false"
     },
     "_ALL_": {
       "some.test.permission": "true",
@@ -130,10 +134,11 @@
       "fe.commands.seen": "true",
       "fe.commands.ping": "true",
       "fe.commands.help": "true",
-      "fe.teleport.portalto": "true",
-      "fe.teleport.portalfrom": "true",
-      "fe.teleport.crossdim.portalto": "true",
-      "fe.teleport.crossdim.portalfrom": "true"
+      "fe.teleport.portalto": "false",
+      "fe.teleport.portalfrom": "false",
+      "fe.teleport.crossdim.portalto": "false",
+      "fe.teleport.crossdim.portalfrom": "false",
+      "fe.protection.place.minecraft.portal": "false"
     },
     "supporter": {
       "fe.internal.prefix": "\u0026a[S]",
