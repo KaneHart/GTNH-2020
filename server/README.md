@@ -22,6 +22,9 @@
 * Search: ```"name:8": "Is this the End? No the END Dimension",```
 * Replace: ```"desc:8": "```
 * With: ```"desc:8": "§4WARNING: Nether, Twilight Forest and End Portals are disabled. You must search the World for an Active Bunker (3 of 12) that can provide you access to the other Dimensions. \n\n§f§0§r```
+* **Anchor to Personal Anchor Change**
+* Find / Replace: ```Railcraft:cart.anchor```
+* With: ```Railcraft:cart.anchor.personal```
 
 ### Removed Client Mods (This For Testing Only When Using Client For Server):
 * BeeBetterAtBees-0.3.jar
