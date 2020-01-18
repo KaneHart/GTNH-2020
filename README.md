@@ -18,7 +18,7 @@ We want our server to be a bit more unique and not giving out free loot, etc. Mo
 - No user placeable portals. Access to the Nether, Twilight Forest and The End will require going to one of our Bunkers (more info lower down).
 - We do not have any (non-admin) teleport commands and prefer players use other transportation methods like rail. We have also disabled the very cheap Witchery Waystones.
 - The world has a border at 16,000 in every direction (world is 32,000 x 32,000 in size).
-- Harvestcraft crops do not spread. The world is very large and you can also purchase them from the quest coin shop.
+- Harvestcraft gardens do not spread. The world is very large and you can also purchase them from the quest coin shop.
 - The world has temperate bands (the North is cold, South is hot and the middle is temperate). This does affect where biomes are placed.
 - Chunkloading is only available through the use of Railcraft's Personal and Passive anchors.
 - Gliders can NOT be used in the Overworld, Twilight Forest or the Nether.
