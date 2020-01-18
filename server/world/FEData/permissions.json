@@ -148,6 +148,8 @@
       "fe.internal.group.includes": "supporter",
       "fe.commands.locate": "true",
       "fe.commands.tempban": "true",
+      "command.ban": "true",
+      "command.pardon": "true",
       "fe.chat.mute": "true",
       "fe.teleport.tp": "true",
       "fe.teleport.from": "true",
