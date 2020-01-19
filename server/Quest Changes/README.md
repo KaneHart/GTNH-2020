@@ -8,27 +8,31 @@
 * Replace: ```"desc:8": "```
 * With: ```"desc:8": "§4WARNING: Nether, Twilight Forest and End Portals are disabled. You must search the World for an Active Bunker (3 of 12) that can provide you access to the other Dimensions. \n\n§f§0§r```
 
-### DefaultQuests.json Disabled Quests (Just Locked Behind Highest Item):
+### DefaultQuests.json Disabled Quests (Hidden):
 
 
-The idea here is to set any quests we don't want showing hidden behind preRequisites ```308```. This is the quest where you earn a Zero Point Module. This normally just use for junk quests like how to set rwg settings on a server, etc.
-
-
-This is a much easier system to update, etc per new version then having to edit / replace parts of quests especially since these are dedicted to nothing we want or need...
+Here we Hide Quests that are mostly junk for Server Admins / Single Player users and a few small changes on our server.
  
 
-We might steal 1 quest for Server Rules / Info! 
-**Quest ID's To Add 308 Quest as a Requirement:** 
-* ```"questID:3": 1834``` - BoP Mushrooms and Wrong World ID Quest
-* ```"questID:3": 645``` - Glider
-* ```"questID:3": 2406``` - TPS Debug, etc stuff
-* ```"questID:3": 1500``` - Special BQ Info HC mode, etc
-* ```"questID:3": 1501``` - Backup Stuff
-* ```"questID:3": 1495``` - Reloading QB Command Block
-* ```"questID:3": 2404``` - Ender Pearls
-* ```"questID:3": 491``` - Sleeping Bag
+
+**Quest ID's to Hide using ```"visibility:8": "HIDDEN",```** 
 * ```"questID:3": 1528``` - Chunkloaders
 * ```"questID:3": 1529``` - Chunkloaders
 * ```"questID:3": 2014``` - Chunkloaders
 * ```"questID:3": 1180``` - Chunkloaders
 * ```"questID:3": 1379``` - Chunkloaders
+* ```"questID:3": 1834``` - BoP Mushrooms and Wrong World ID Quest
+* ```"questID:3": 1368``` - Twilight Quest to Make Portal Back from Twilight.
+* ```"questID:3": 645``` - Glider
+* ```"questID:3": 2066``` - Magic Glider
+* ```"questID:3": 1343``` - Another Magic Glider
+* ```"questID:3": 2406``` - TPS Debug, etc stuff
+* ```"questID:3": 2145``` - Too Many Keys
+* ```"questID:3": 1500``` - Special BQ Info HC mode, etc
+* ```"questID:3": 1501``` - Backup Stuff
+* ```"questID:3": 1495``` - Reloading QB Command Block
+* ```"questID:3": 2404``` - Ender Pearls
+* ```"questID:3": 491``` - Sleeping Bag
+* ```"questID:3": 214``` - Personal Dim Connected Reward
+* ```"questID:3": 217``` - Personal Dim
+* ```"questID:3": 218``` - Personal Dim Connected Reward
