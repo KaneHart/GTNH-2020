@@ -28,6 +28,7 @@ We might steal 1 quest for Server Rules / Info!
 * ```"questID:3": 2404``` - Ender Pearls
 * ```"questID:3": 491``` - Sleeping Bag
 * ```"questID:3": 1528``` - Chunkloaders
+* ```"questID:3": 1529``` - Chunkloaders
 * ```"questID:3": 2014``` - Chunkloaders
 * ```"questID:3": 1180``` - Chunkloaders
 * ```"questID:3": 1379``` - Chunkloaders
