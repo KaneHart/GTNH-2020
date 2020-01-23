@@ -30,6 +30,9 @@ This is a list of server side changes we make and need to keep an eye from. Thin
 * /pregen utils setPriority Pregenerator
 * **Worlds To Pregen Commands:**
 * Overworld: /pregen gen startradius square 0 0 b16000
+* Overworld: /pregen gen startexpansion square 0 0 1000 1016
 * Nether: /pregen gen startradius square 0 0 b16000 -1
+* Nether: /pregen gen startexpansion square 0 0 1000 1016 -1
 * Twilight: /pregen gen startradius square 0 0 b16000 7
+* Twilight: /pregen gen startexpansion square 0 0 1000 1016 7
 
