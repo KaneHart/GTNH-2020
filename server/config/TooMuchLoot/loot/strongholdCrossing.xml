@@ -9,14 +9,11 @@
 	<loot item="HardcoreEnderExpansion:knowledge_note" damage="0" nbt="{pts:30b}" weight="9" count_min="1" count_max="1"/>
 	<loot item="HardcoreEnderExpansion:knowledge_note" damage="0" nbt="{pts:20b}" weight="14" count_min="1" count_max="1"/>
 	<loot item="HardcoreEnderExpansion:knowledge_note" damage="0" nbt="{pts:10b}" weight="18" count_min="1" count_max="1"/>
-    <loot item="Thaumcraft:ItemLootBag" damage="0" weight="4" count_min="1" count_max="3"/>
     <loot item="Thaumcraft:ItemResource" damage="6" weight="4" count_min="1" count_max="3"/>
-    <loot item="Thaumcraft:ItemLootBag" damage="1" weight="3" count_min="1" count_max="2"/>
     <loot item="Thaumcraft:ItemBaubleBlanks" damage="0" weight="3" count_min="1" count_max="2"/>
     <loot item="Thaumcraft:ItemBaubleBlanks" damage="1" weight="3" count_min="1" count_max="2"/>
     <loot item="Thaumcraft:ItemBaubleBlanks" damage="2" weight="3" count_min="1" count_max="2"/>
     <loot item="Thaumcraft:ItemResource" damage="9" weight="3" count_min="1" count_max="2"/>
-    <loot item="Thaumcraft:ItemLootBag" damage="2" weight="1" count_min="1" count_max="1"/>
     <loot item="Thaumcraft:ItemThaumonomicon" damage="0" weight="1" count_min="1" count_max="1"/>
     <loot item="Thaumcraft:ItemRingRunic" damage="0" weight="1" count_min="1" count_max="1"/>
     <loot item="Thaumcraft:ItemBaubleBlanks" damage="3" weight="1" count_min="1" count_max="1"/>
