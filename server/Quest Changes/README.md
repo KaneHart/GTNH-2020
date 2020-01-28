@@ -16,23 +16,24 @@ Here we Hide Quests that are mostly junk for Server Admins / Single Player users
 
 
 **Quest ID's to Hide using ```"visibility:8": "HIDDEN",```** 
-* ```"questID:3": 1528``` - Chunkloaders
-* ```"questID:3": 1529``` - Chunkloaders
-* ```"questID:3": 2014``` - Chunkloaders
-* ```"questID:3": 1180``` - Chunkloaders
-* ```"questID:3": 1379``` - Chunkloaders
-* ```"questID:3": 1834``` - BoP Mushrooms and Wrong World ID Quest
-* ```"questID:3": 1368``` - Twilight Quest to Make Portal Back from Twilight.
-* ```"questID:3": 645``` - Glider
-* ```"questID:3": 2066``` - Magic Glider
-* ```"questID:3": 1343``` - Another Magic Glider
-* ```"questID:3": 2406``` - TPS Debug, etc stuff
-* ```"questID:3": 2145``` - Too Many Keys
-* ```"questID:3": 1500``` - Special BQ Info HC mode, etc
-* ```"questID:3": 1501``` - Backup Stuff
-* ```"questID:3": 1495``` - Reloading QB Command Block
-* ```"questID:3": 2404``` - Ender Pearls
-* ```"questID:3": 491``` - Sleeping Bag
 * ```"questID:3": 214``` - Personal Dim Connected Reward
 * ```"questID:3": 217``` - Personal Dim
 * ```"questID:3": 218``` - Personal Dim Connected Reward
+* ```"questID:3": 491``` - Sleeping Bag
+* ```"questID:3": 645``` - Glider
+* ```"questID:3": 1180``` - Chunkloaders
+* ```"questID:3": 1343``` - Another Magic Glider
+* ```"questID:3": 1368``` - Twilight Quest to Make Portal Back from Twilight.
+* ```"questID:3": 1379``` - Chunkloaders
+* ```"questID:3": 1495``` - Reloading QB Command Block
+* ```"questID:3": 1500``` - Special BQ Info HC mode, etc
+* ```"questID:3": 1501``` - Backup Stuff
+* ```"questID:3": 1528``` - Chunkloaders
+* ```"questID:3": 1529``` - Chunkloaders
+* ```"questID:3": 1834``` - BoP Mushrooms and Wrong World ID Quest
+* ```"questID:3": 2014``` - Chunkloaders
+* ```"questID:3": 2066``` - Magic Glider
+* ```"questID:3": 2145``` - Too Many Keys
+* ```"questID:3": 2404``` - Ender Pearls
+* ```"questID:3": 2406``` - TPS Debug, etc stuff
+
