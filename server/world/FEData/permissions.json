@@ -90,7 +90,8 @@
       "some.test.permission": "true",
       "fe.internal.group.name": "players",
       "fe.internal.group.priority": "0",
-      "fe.internal.group": "true"
+      "fe.internal.group": "true",
+      "fe.internal.spawn.location": "[0.5718450996900164,74.0,-10.959836816672851,dim\u003d0,pitch\u003d-24.000027,yaw\u003d-359.68152]"
     },
     "_CREATIVE_": {
       "fe.internal.group": "true"
