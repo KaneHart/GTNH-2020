@@ -75,7 +75,7 @@
       "fe.protection.*": "true"
     },
     "_OPS_": {
-      "fe.internal.prefix": "[\u0026cOP\u0026f]",
+      "fe.internal.prefix": "\u0026a",
       "fe.internal.group.priority": "60",
       "fe.internal.group": "true",
       "fe.internal.group.includes": "admin",
@@ -100,7 +100,8 @@
       "fe.internal.group": "true"
     },
     "_GUESTS_": {
-      "fe.internal.player.name": "\u0026a[G]",
+      "fe.internal.player.name": "\u0026b",
+      "fe.chat.playerformat": "\u0026b",
       "fe.internal.group.priority": "10",
       "fe.internal.group": "true",
       "mytown.cmd.*": "true",
@@ -143,13 +144,13 @@
       "fe.protection.place.minecraft.portal": "false"
     },
     "supporter": {
-      "fe.internal.prefix": "\u0026a[S]",
+      "fe.internal.prefix": "\u0026b",
       "fe.internal.group.priority": "30",
       "fe.internal.group": "true",
       "fe.internal.group.includes": "_GUESTS_"
     },
     "moderator": {
-      "fe.internal.prefix": "\u0026a[M]",
+      "fe.internal.prefix": "\u0026b",
       "fe.internal.group.priority": "40",
       "fe.internal.group": "true",
       "fe.internal.group.includes": "supporter",
@@ -167,7 +168,8 @@
       "fe.teleport.bed": "0"
     },
     "admin": {
-      "fe.internal.prefix": "\u0026a[A]",
+      "fe.internal.prefix": "\u0026a",
+      "fe.chat.playerformat": "\u0026a",
       "fe.internal.group.priority": "50",
       "fe.internal.group": "true",
       "fe.internal.group.includes": "moderator",
