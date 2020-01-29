@@ -80,6 +80,7 @@
       "fe.internal.group": "true",
       "fe.internal.group.includes": "admin",
       "mytown.*": "true",
+      "command.*": "true",
       "fe.teleport.portalto": "false",
       "fe.teleport.portalfrom": "false",
       "fe.teleport.crossdim.portalto": "false",
