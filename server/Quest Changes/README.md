@@ -30,10 +30,8 @@ Here we Hide Quests that are mostly junk for Server Admins / Single Player users
 * ```"questID:3": 1501``` - Backup Stuff
 * ```"questID:3": 1528``` - Chunkloaders
 * ```"questID:3": 1529``` - Chunkloaders
-* ```"questID:3": 1834``` - BoP Mushrooms and Wrong World ID Quest
 * ```"questID:3": 2014``` - Chunkloaders
 * ```"questID:3": 2066``` - Magic Glider
 * ```"questID:3": 2145``` - Too Many Keys
 * ```"questID:3": 2404``` - Ender Pearls
-* ```"questID:3": 2406``` - TPS Debug, etc stuff
 
