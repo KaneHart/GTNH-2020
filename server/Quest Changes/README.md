@@ -2,8 +2,8 @@
 
 ### DefaultQuests.json Changes:
 * **Nether, Twilight, End Text Update:**
-* Search: ```"name:8": "§3§m§l§m§4§3§lTHE NETHER",```
 * Search: ```"name:8": "Searching for answers",```
+* Search: ```"name:8": "§3§m§l§m§4§3§lTHE NETHER",```
 * Search: ```"name:8": "Is this the End? No the END Dimension",```
 * Replace: ```"desc:8": "```
 * With: ```"desc:8": "§4WARNING: Nether, Twilight Forest and End Portals are disabled. You must search the World for an Active Bunker (3 of 12) that can provide you access to the other Dimensions. \n\n§f§0§r```
