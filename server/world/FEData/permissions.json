@@ -167,6 +167,8 @@
       "fe.teleport.tp.others": "true",
       "fe.teleport.from": "true",
       "fe.teleport.to": "true",
+      "fe.teleport.back": "true",
+      "fe.teleport.spawn": "true",
       "fe.teleport.cooldown": "0",
       "fe.teleport.warmup": "0",
       "fe.teleport.top": "0",
