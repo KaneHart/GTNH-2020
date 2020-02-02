@@ -1,0 +1,26 @@
+{
+  "modid": "OpenComputers",
+  "segments": [
+    {
+      "class": "li.cil.oc.common.block.Screen",
+      "type": "block",
+      "actions": "RIGHT_CLICK",
+      "meta": -1,
+      "flags": "ACCESS"
+    },
+    {
+      "class": "li.cil.oc.common.block.Case",
+      "type": "block",
+      "actions": "RIGHT_CLICK",
+      "meta": -1,
+      "flags": "ACCESS"
+    },
+    {
+      "class": "li.cil.oc.common.block.Keyboard",
+      "type": "block",
+      "actions": "RIGHT_CLICK",
+      "meta": -1,
+      "flags": "ACCESS"
+    }
+  ]
+}
