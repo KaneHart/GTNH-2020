@@ -41,14 +41,12 @@ First Quarter of 2020. We don't have an exact date as we still have to purchase 
 
 - AMD Ryzen 9 3900X 3.8 GHz 12-Core Processor
 - Noctua NH-D15 CPU Fan
-- MSI X570-A PRO Motherboard
-- G.Skill Aegis 64 GB (4 x 16 GB) DDR4-3200 Memory
+- Asus Prime X570-P Ryzen 3 AM4 with PCIe Gen4, Dual M.2
+- CORSAIR Vengeance LPX 64GB (4 x 16 GB) DDR4-3200 Memory C16
 - XPG GAMMIX 2TB S11 Pro 3D NAND PCIe NVMe Gen3x4 M.2 2280 R/W up to 3500/3000MB SSD
-- Corsair VS 650 W 80+ Certified ATX Power Supply
-- Rosewill RSV-R4100-4U Rackmount Server Case/Chassis - 8 Internal Bays
-- As well as Backup Sata Mechanical Drive for longer term backups. 
-
-https://ca.pcpartpicker.com/list/CWb97T
+- Corsair CP-9020122-NA CX Series 650 Watt 80 Plus Bronze
+- CORSAIR CARBIDE 275R Mid-Tower Case
+- 2 x BarraCuda Pro 10TB Drives
 
 ## How will donations work?
 
