@@ -97,7 +97,7 @@
           }, {
             "name": "whitelist",
             "command": "whitelist add {args}",
-            "enabled": true
+            "enabled": false
           },
           
           ]
