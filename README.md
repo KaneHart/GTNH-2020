@@ -42,7 +42,7 @@ First Quarter of 2020. We don't have an exact date as we still have to purchase 
 - AMD Ryzen 9 3900X 3.8 GHz 12-Core Processor
 - Noctua NH-D15 CPU Fan
 - Asus Prime X570-P Ryzen 3 AM4 with PCIe Gen4, Dual M.2
-- Corsair Vengeance LPX 64GB (4 x 16 GB) DDR4-3200 Memory C16
+- Corsair Vengeance LPX 64GB (2 x 32 GB) DDR4-3200 Memory C16
 - XPG GAMMIX 2TB S11 Pro 3D NAND PCIe NVMe Gen3x4 M.2 2280 R/W up to 3500/3000MB SSD
 - Corsair CP-9020122-NA CX Series 650 Watt 80 Plus Bronze
 - Corsair Carbide 275R Mid-Tower Case
