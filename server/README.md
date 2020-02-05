@@ -1,6 +1,6 @@
 ## Server Changes
 
-This is a list of server side changes we make and need to keep an eye from. Things like modified quests to mods we have to remove, include, etc. This is not a place for special information, ideas or plans that belongs in the main Readme file one directory above this. 
+This is a very basic Server Side changes we have made to our server like mods, World Generation Info, etc.
 
 ### Removed Mods:
 * **LootGames-1.7.10-1.0.18.jar** - One Boring game, cheap loot, more world gen.
@@ -21,4 +21,8 @@ This is a list of server side changes we make and need to keep an eye from. Thin
 * ServerTabInfo-1.7.10-Final-b3.jar - Gives Extra Info about TPS / MS, etc in TAB window.
 * backport5160-1.0.jar - Fixes Entites Vanishing / Duping over Chunk Borders (Rare Bug)
 
-
+### World Generation:
+* Overworld 32k x 32k - Pregen
+* Nether 32k x 32k - Pregen
+* Twilight Forest 16k x 16k - Pregen
+* No Other Worlds Pregen at this time. Please don't move fast in other worlds to help reduce lag.
