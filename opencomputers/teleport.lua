@@ -18,7 +18,7 @@ while true do
   component.debug.runCommand("spawnpoint " .. name)
 
 date = os.date(nil,realtime.time())
-file = fs.open("/home/teleport-logs.txt","a")
+file = fs.open("/home/teleportlog.txt","a")
 file:write(name .." " .. date .. "\n")
 file:close()
 
