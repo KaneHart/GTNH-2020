@@ -39,9 +39,9 @@ closed = (1750-a)
 
 
 -- Debug Testing Crap
---[[print(string.format("closed %03d",closed))
-print(string.format("open %03d", open))
-print(string.format("opening %03d", opening))]]--
+--[[print(string.format("closed %02d",closed))
+print(string.format("open %02d", open))
+print(string.format("opening %02d", opening))]]--
 
 
 
@@ -50,7 +50,7 @@ while (opening) > 1 do
 os.sleep(1)
 term.clear()
 print("")
-print(string.format(" Gate Opening In %03d Seconds", opening))
+print(string.format(" Gate Opening In %01d Seconds", opening))
 goto loop
 end
 
@@ -59,7 +59,7 @@ while (open) > 1 do
 os.sleep(1)
 term.clear()
 print("")
-print(string.format(" Gate Closing In %03d Seconds", open))
+print(string.format(" Gate Closing In %01d Seconds", open))
 sg.openIris()
 sg.dial("XXXXXXXXXX")
 goto loop
@@ -69,7 +69,7 @@ end
 os.sleep(1)
 term.clear()
 print("")
-print(string.format(" Gate Opening In %03d Seconds", closed))
+print(string.format(" Gate Opening In %01d Seconds", closed))
 sg.closeIris()
 sg.disconnect()
 goto loop
