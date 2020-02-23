@@ -1,5 +1,6 @@
 local computer = require("computer")
 local component = require("component")
+local chat = component.getPrimary("chat_box")
 local sides = require("sides")
 local colors = require("colors")
 local rs = component.redstone
@@ -14,7 +15,7 @@ os.sleep(1);
 
 rs.setBundledOutput(sides.right, { [colors.black] = 15 } )
 os.sleep(1);
-debug.runCommand("say Alpha Base Hangers about to Open")
+chat.say("Alpha Base Hangers about to Open")
 
 os.sleep(5);
   print("Green Redstone ON")
