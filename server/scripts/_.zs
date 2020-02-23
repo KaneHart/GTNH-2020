@@ -54,3 +54,12 @@ Assembler.addRecipe(<dreamcraft:item.CoinChunkloaderTierV>, <dreamcraft:item.Coi
 //Ender Eye / Obsidian Bunker Tips
 <minecraft:ender_eye>.addTooltip(format.red("Nether portals/Strongholds are disabled. Please find one of the 12 bunker to travel off world."));
 <minecraft:obsidian>.addTooltip(format.red("Nether portals/Strongholds are disabled. Please find one of the 12 bunker to travel off world."));
+
+//Remove OC Drone's Temp Due to Exploit
+<ore:oc:droneCase1>.addTooltip(format.red("Banned Item"));
+recipes.remove(<ore:oc:droneCase1>);
+<ore:oc:droneCase2>.addTooltip(format.red("Banned Item"));
+recipes.remove(<ore:oc:droneCase2>);
+<OpenComputers:item:91>.addTooltip(format.red("Banned Item"));
+recipes.remove(<OpenComputers:item:91>);
+
