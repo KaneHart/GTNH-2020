@@ -1,6 +1,8 @@
 local debug = require("component").debug
+local component = require("component")
+local chat = component.getPrimary("chat_box")
 
-debug.runCommand("say Resetting Alpha Site")
+chat.say("Resetting Alpha Site")
 
 debug.runCommand("//pos1 x,y,z")
 debug.runCommand("//pos2 x,y,z")
