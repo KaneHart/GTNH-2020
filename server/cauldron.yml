@@ -110,7 +110,7 @@ world-settings:
   max-players-visible: -1
   use-real-names: false
 protection:
-  spawn-protect: true
+  spawn-protect: false
   no-fallback-alias: true
   blocked-cmds: ''
   instant-removal: ''
