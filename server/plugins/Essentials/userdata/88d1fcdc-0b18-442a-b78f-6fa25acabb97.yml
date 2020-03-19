@@ -1,0 +1,20 @@
+lastAccountName: Kane_Hart
+timestamps:
+  login: 1584653521318
+  logout: 1584599383027
+ipAddress: 0:0:0:0:0:0:0:1
+lastlocation:
+  world: world
+  x: -6.993205386795349
+  y: 135.6484976612992
+  z: -324.4673019432965
+  yaw: -349.86548
+  pitch: 36.299686
+afk: true
+logoutlocation:
+  world: world
+  x: -98.68012872959793
+  y: 57.5
+  z: -29.985775724465714
+  yaw: 1.1353903
+  pitch: 3.5998383
