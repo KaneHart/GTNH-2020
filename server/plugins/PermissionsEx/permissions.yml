@@ -21,6 +21,19 @@ groups:
     - -bukkit.command.version
     - -essentials.afk.auto
     - essentials.help
+    - mytown.cmd
+    - mytown.cmd.outsider.new
+    - mytown.cmd.assistant.claim
+    - mytown.cmd.assistant.unclaim
+    - mytown.cmd.assistant.invite
+    - mytown.cmd.everyone.leave
+    - mytown.cmd.mayor.leave.delete
+    - mytown.cmd.everyone.borders.*
+    - mytown.cmd.assistant.invite
+    - mytown.cmd.outsider.accept
+    - mytown.cmd.outsider.refuse
+    - mytown.cmd.everyone.select
+    
   Supporter:
     options:
       prefix: '&5'
