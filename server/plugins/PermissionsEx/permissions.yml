@@ -88,8 +88,12 @@ groups:
     - essentials.broadcast
     - essentials.gc
     - essentials.tp
+    - essentials.tp.*
+    - essentials.top
     - essentials.back
     - bukkit.command.stop
+    - bukkit.command.op.*
+    - mytown.*
 schema-version: 1
 users:
   88d1fcdc-0b18-442a-b78f-6fa25acabb97:
