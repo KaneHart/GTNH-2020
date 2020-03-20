@@ -49,7 +49,7 @@ groups:
     - essentials.joinfullserver
   Moderator:
     options:
-      prefix: '&a'
+      prefix: '&c'
       suffix: '&f'
       weight: '2'
     inheritance:
@@ -71,7 +71,7 @@ groups:
     - bukkit.command.whitelist.*
   Administrator:
     options:
-      prefix: '&4'
+      prefix: '&a'
       suffix: '&f'
       weight: '1'
     inheritance:
