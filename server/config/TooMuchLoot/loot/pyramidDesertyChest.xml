@@ -2,31 +2,4 @@
 <LootGroup category="pyramidDesertyChest" loading_mode="OVERRIDE" count_min="2" count_max="7">
     <loot item="minecraft:bone" damage="0" weight="20" count_min="4" count_max="6"/>
     <loot item="minecraft:rotten_flesh" damage="0" weight="16" count_min="3" count_max="7"/>
-    <loot item="minecraft:saddle" damage="0" weight="3" count_min="1" count_max="1"/>
-    <loot item="minecraft:enchanted_book" damage="0" weight="1" count_min="1" count_max="1"/>
-    <loot item="HardcoreEnderExpansion:adventurers_diary" damage="0" weight="5" count_min="1" count_max="1"/>
-    <loot item="HardcoreEnderExpansion:knowledge_note" damage="0" nbt="{pts:40b}" weight="3" count_min="1" count_max="1"/>
-	<loot item="HardcoreEnderExpansion:knowledge_note" damage="0" nbt="{pts:30b}" weight="6" count_min="1" count_max="1"/>
-	<loot item="HardcoreEnderExpansion:knowledge_note" damage="0" nbt="{pts:20b}" weight="9" count_min="1" count_max="1"/>
-	<loot item="HardcoreEnderExpansion:knowledge_note" damage="0" nbt="{pts:10b}" weight="12" count_min="1" count_max="1"/>
-    <loot item="OpenComputers:item" damage="4" weight="5" count_min="1" count_max="1"/>
-    <loot item="Thaumcraft:ItemResource" damage="6" weight="5" count_min="1" count_max="3"/>
-    <loot item="Thaumcraft:ItemBaubleBlanks" damage="0" weight="4" count_min="1" count_max="2"/>
-    <loot item="Thaumcraft:ItemBaubleBlanks" damage="1" weight="4" count_min="1" count_max="2"/>
-    <loot item="Thaumcraft:ItemBaubleBlanks" damage="2" weight="4" count_min="1" count_max="2"/>
-    <loot item="Thaumcraft:ItemResource" damage="9" weight="4" count_min="1" count_max="2"/>
-    <loot item="Thaumcraft:ItemThaumonomicon" damage="0" weight="1" count_min="1" count_max="1"/>
-    <loot item="Thaumcraft:ItemRingRunic" damage="0" weight="1" count_min="1" count_max="1"/>
-    <loot item="Thaumcraft:ItemBaubleBlanks" damage="3" weight="1" count_min="1" count_max="1"/>
-    <loot item="Thaumcraft:ItemBaubleBlanks" damage="4" weight="1" count_min="1" count_max="1"/>
-    <loot item="Thaumcraft:ItemBaubleBlanks" damage="5" weight="1" count_min="1" count_max="1"/>
-    <loot item="Thaumcraft:ItemBaubleBlanks" damage="6" weight="1" count_min="1" count_max="1"/>
-    <loot item="Thaumcraft:ItemBaubleBlanks" damage="7" weight="1" count_min="1" count_max="1"/>
-    <loot item="Thaumcraft:ItemBaubleBlanks" damage="8" weight="1" count_min="1" count_max="1"/>
-    <loot item="Thaumcraft:ItemAmuletVis" damage="0" nbt="{aqua:100,terra:100,ignis:300,ordo:200,perditio:200,aer:400}" weight="1" count_min="1" count_max="1"/>
-	<loot item="Thaumcraft:blockCustomPlant" damage="2" weight="4" count_min="1" count_max="3"/>
-	<loot item="Thaumcraft:blockCustomPlant" damage="3" weight="4" count_min="1" count_max="3"/>
-    <loot item="Automagy:baubleEnderDisjunction" damage="1" weight="1" count_min="1" count_max="1"/>
-    <loot item="Automagy:phialExtra" damage="0" weight="3" count_min="1" count_max="3"/>
-    <loot item="ExtraUtilities:divisionSigil" damage="0" weight="5" count_min="1" count_max="1"/>
 </LootGroup>

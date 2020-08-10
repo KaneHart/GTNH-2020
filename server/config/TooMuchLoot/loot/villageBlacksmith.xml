@@ -1,25 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <LootGroup category="villageBlacksmith" loading_mode="OVERRIDE" count_min="4" count_max="11">
     <loot item="minecraft:bread" damage="0" weight="15" count_min="1" count_max="3"/>
-    <loot item="TConstruct:woodPattern" damage="6" weight="3" count_min="1" count_max="1"/>
-    <loot item="TConstruct:woodPattern" damage="7" weight="3" count_min="1" count_max="1"/>
-    <loot item="TConstruct:woodPattern" damage="22" weight="3" count_min="1" count_max="1"/>
     <loot item="minecraft:apple" damage="0" weight="15" count_min="1" count_max="3"/>
-    <loot item="minecraft:obsidian" damage="0" weight="5" count_min="3" count_max="7"/>
     <loot item="minecraft:sapling" damage="0" weight="5" count_min="3" count_max="7"/>
-    <loot item="minecraft:saddle" damage="0" weight="3" count_min="1" count_max="1"/>
-    <loot item="IC2:blockRubSapling" damage="0" weight="4" count_min="1" count_max="4"/>
-    <loot item="BiomesOPlenty:plants" damage="5" weight="25" count_min="2" count_max="6"/>
-    <loot item="BiomesOPlenty:misc" damage="1" weight="25" count_min="2" count_max="8"/>
-    <loot item="BiomesOPlenty:wadingBoots" damage="0" weight="5" count_min="1" count_max="1"/>
-    <loot item="BiomesOPlenty:flippers" damage="0" weight="5" count_min="1" count_max="1"/>
-    <loot item="HardcoreEnderExpansion:knowledge_note" damage="0" nbt="{pts:40b}" weight="3" count_min="1" count_max="1"/>
-    <loot item="HardcoreEnderExpansion:knowledge_note" damage="0" nbt="{pts:30b}" weight="6" count_min="1" count_max="1"/>
-    <loot item="HardcoreEnderExpansion:knowledge_note" damage="0" nbt="{pts:20b}" weight="9" count_min="1" count_max="1"/>
-    <loot item="HardcoreEnderExpansion:knowledge_note" damage="0" nbt="{pts:10b}" weight="12" count_min="1" count_max="1"/>
-    <loot item="Thaumcraft:ItemResource" damage="2" weight="10" count_min="1" count_max="3"/>
-    <loot item="Thaumcraft:blockCustomPlant" damage="2" weight="4" count_min="1" count_max="3"/>
-    <loot item="Thaumcraft:blockCustomPlant" damage="3" weight="4" count_min="1" count_max="3"/>
-    <loot item="Automagy:phialExtra" damage="0" weight="3" count_min="1" count_max="2"/>
-    <loot item="IguanaTweaksTConstruct:wearableBucket" damage="0" weight="1" count_min="0" count_max="1"/>
 	</LootGroup>

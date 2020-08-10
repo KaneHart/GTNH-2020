@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <LootGroup category="chest2" loading_mode="OVERRIDE" count_min="3" count_max="6">
-	<loot item="Railcraft:track" damage="816" nbt="{track:&quot;railcraft:track.speed&quot;}" weight="10" count_min="12" count_max="24"/>
-	<loot item="Railcraft:track" damage="0" nbt="{track:&quot;railcraft:track.reinforced&quot;}" weight="10" count_min="12" count_max="24"/>
-	<loot item="Railcraft:track" damage="0" nbt="{track:&quot;railcraft:track.speed.boost&quot;}" weight="10" count_min="8" count_max="16"/>
-	<loot item="Railcraft:track" damage="26865" nbt="{track:&quot;railcraft:track.speed.transition&quot;}" weight="25" count_min="12" count_max="20"/>
-	<loot item="Railcraft:track.elevator" damage="0" weight="10" count_min="10" count_max="20"/>
-	<loot item="Railcraft:cart.tank" damage="0" weight="25" count_min="1" count_max="2"/>
-	<loot item="minecraft:clock" damage="0" weight="15" count_min="1" count_max="1"/>
-	<loot item="minecraft:compass" damage="0" weight="15" count_min="1" count_max="1"/>
+
+    <loot item="minecraft:bread" damage="0" weight="10" count_min="1" count_max="1"/>
+    <loot item="minecraft:wheat" damage="0" weight="10" count_min="1" count_max="2"/>
+    <loot item="minecraft:string" damage="0" weight="10" count_min="1" count_max="2"/>
 </LootGroup>
