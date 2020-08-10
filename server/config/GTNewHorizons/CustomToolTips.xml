@@ -47,6 +47,13 @@
 	<ToolTip ItemName="dreamcraft:tile.TungstensteelPlatedReinforcedStone" ToolTip="§3Hardness 250 §4Blast Resistance 400"/>
 	<ToolTip ItemName="dreamcraft:tile.NaquadahPlatedReinforcedStone" ToolTip="§3Hardness 500 §4Blast Resistance 1000"/>
 	<ToolTip ItemName="dreamcraft:tile.NeutroniumPlatedReinforcedStone" ToolTip="§3Hardness 1000 §4Blast Resistance 2500"/>
+	<ToolTip ItemName="EnderZoo:enderFragment" ToolTip="§11H Use in Personal Chunkloader"/>
+	<ToolTip ItemName="dreamcraft:item.CoinChunkloaderTierI" ToolTip="§412H Chunkloader Coin, 24H in Passive Chunkloader, 48H in Personal Chunkloader"/>
+	<ToolTip ItemName="dreamcraft:item.CoinChunkloaderTierII" ToolTip="§624H Chunkloader Coin, 48H in Passive Chunkloader, 96H in Personal Chunkloader"/>
+	<ToolTip ItemName="dreamcraft:item.CoinChunkloaderTierIII" ToolTip="§248H Chunkloader Coin, 96H in Passive Chunkloader, 192H in Personal Chunkloader"/>
+	<ToolTip ItemName="dreamcraft:item.CoinChunkloaderTierIV" ToolTip="§896H Chunkloader Coin, 192H in Passive Chunkloader, 384H in Personal Chunkloader"/>
+	<ToolTip ItemName="dreamcraft:item.CoinChunkloaderTierV" ToolTip="§7192H Chunkloader Coin, 384H in Passive Chunkloader, 768H in Personal Chunkloader"/>
+	<ToolTip ItemName="minecraft:ender_pearl" ToolTip="§81H Chunkloader Use in Passive and 4H in Personal Chunkloader"/>
 	
 
 //Gregtech	
@@ -119,6 +126,7 @@
 	<ToolTip ItemName="irontank:obsidianTank" ToolTip="Stores up to 64 Buckets of one Liquid §4Blast Proof, not portable use a dolly"/>
 	<ToolTip ItemName="irontank:copperTank" ToolTip="Stores up to 27 Buckets of one Liquid §4Not portable use a dolly"/>
 	<ToolTip ItemName="irontank:silverTank" ToolTip="Stores up to 43 Buckets of one Liquid §4Not portable use a dolly"/>
+	<ToolTip ItemName="irontank:emeraldTank" ToolTip="Stores up to 96 Buckets of one Liquid §4Not portable use a dolly"/>
 	
 //Bags
 	<ToolTip ItemName="Backpack:backpack" ToolTip="4*9 Inventory - 36 Slots"/>
@@ -338,8 +346,17 @@
     <ToolTip ItemName="gregtech:gt.comb:117" ToolTip="§4Forestry can't process it"/>
 	<ToolTip ItemName="gregtech:gt.comb:118" ToolTip="§4Forestry can't process it"/>
 	<ToolTip ItemName="gregtech:gt.comb:119" ToolTip="§4Forestry can't process it"/>
-
-
+	<ToolTip ItemName="gregtech:gt.comb:120" ToolTip="§4Forestry can't process it"/>
+	<ToolTip ItemName="gregtech:gt.comb:121" ToolTip="§4Forestry can't process it"/>
+	<ToolTip ItemName="gregtech:gt.comb:122" ToolTip="§4Forestry can't process it"/>
+	<ToolTip ItemName="gregtech:gt.comb:123" ToolTip="§4Forestry can't process it"/>
+	<ToolTip ItemName="gregtech:gt.comb:124" ToolTip="§4Forestry can't process it"/>
+	<ToolTip ItemName="gregtech:gt.comb:125" ToolTip="§4Forestry can't process it"/>
+	<ToolTip ItemName="gregtech:gt.comb:126" ToolTip="§4Forestry can't process it"/>
+	<ToolTip ItemName="gregtech:gt.comb:127" ToolTip="§4Forestry can't process it"/>
+	<ToolTip ItemName="gregtech:gt.comb:128" ToolTip="§4Forestry can't process it"/>
+	<ToolTip ItemName="gregtech:gt.comb:129" ToolTip="§4Forestry can't process it"/>
+	<ToolTip ItemName="gregtech:gt.comb:130" ToolTip="§4Forestry can't process it"/>
 //BQ Command Blocks
 	<ToolTip ItemName="cb4bq:BlockREB" ToolTip="§4This block will RESET ALL YOUR QUESTS, starting over from Tier 0. Do NOT build or use unless you really mean it!"/> 
 </CustomToolTips>
