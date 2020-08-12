@@ -18,9 +18,6 @@ recipes.remove(<Railcraft:machine.alpha>);
 <Railcraft:cart.anchor>.addTooltip(format.red("Banned Item"));
 recipes.remove(<Railcraft:cart.anchor>);
 
-//Removed Waystone for Teleportation Reasons. Witchery is TO OP
-recipes.remove(<witchery:ingredient:12>);
-
 //Glider Nerf
 <OpenBlocks:hangglider>.addTooltip(format.red("Does Not Work In Overworld, Nether, Twilight"));
 
