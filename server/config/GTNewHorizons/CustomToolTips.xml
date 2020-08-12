@@ -359,4 +359,12 @@
 	<ToolTip ItemName="gregtech:gt.comb:130" ToolTip="§4Forestry can't process it"/>
 //BQ Command Blocks
 	<ToolTip ItemName="cb4bq:BlockREB" ToolTip="§4This block will RESET ALL YOUR QUESTS, starting over from Tier 0. Do NOT build or use unless you really mean it!"/> 
+//Stone Legion Changes
+	<ToolTip ItemName="EnderZoo:enderFragment" ToolTip="§11H Use in Personal Chunkloader"/>
+	<ToolTip ItemName="dreamcraft:item.CoinChunkloaderTierI" ToolTip="§412H Chunkloader Coin, 24H in Passive Chunkloader, 48H in Personal Chunkloader"/>
+	<ToolTip ItemName="dreamcraft:item.CoinChunkloaderTierII" ToolTip="§624H Chunkloader Coin, 48H in Passive Chunkloader, 96H in Personal Chunkloader"/>
+	<ToolTip ItemName="dreamcraft:item.CoinChunkloaderTierIII" ToolTip="§248H Chunkloader Coin, 96H in Passive Chunkloader, 192H in Personal Chunkloader"/>
+	<ToolTip ItemName="dreamcraft:item.CoinChunkloaderTierIV" ToolTip="§896H Chunkloader Coin, 192H in Passive Chunkloader, 384H in Personal Chunkloader"/>
+	<ToolTip ItemName="dreamcraft:item.CoinChunkloaderTierV" ToolTip="§7192H Chunkloader Coin, 384H in Passive Chunkloader, 768H in Personal Chunkloader"/>
+	<ToolTip ItemName="minecraft:ender_pearl" ToolTip="§81H Chunkloader Use in Passive and 4H in Personal Chunkloader"/>
 </CustomToolTips>
