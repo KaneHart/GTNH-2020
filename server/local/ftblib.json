@@ -6,8 +6,8 @@
     "trash_can": "trash_can"
   },
   "commands": {
-    "override_help": true,
-    "override_list": true,
+    "override_help": false,
+    "override_list": false,
     "set_item_name": "op",
     "trash_can": "all"
   }
