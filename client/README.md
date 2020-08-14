@@ -13,3 +13,9 @@
 * CleanView-1.7.10-v2.jar
 * Ding-MC1.7.10v2.jar
 * Neat+1.0-1.jar
+* FTBUtilities-1.7.10-1.0.18.3 .jar
+* FTBLib-1.7.10-1.0.18.3.jar
+
+
+### Added Client Resources:
+* SGCraft-GatesGoneGray.zip - Better Looking Stargate
