@@ -2,7 +2,29 @@
 <config>
     <lines at="topleft">
         <line>
-	    <str>Day $3{day}$f, Time: </str>
+            <str>$rYear $3</str>
+            <add>
+                <round>
+                    <div>
+                        <sub>
+                            <var>day</var>
+                            <modi>
+                                <var>day</var>
+                                <num>365</num>
+                            </modi>
+                        </sub>
+                        <num>365</num>
+                    </div>
+                    <num>0</num>
+                </round>
+                <num>1</num>
+            </add>
+            <str> $rDay $3</str>
+            <modi>
+                <var>day</var>
+                <num>365</num>
+            </modi>
+            <str>$f Time: </str>
             <if>
                 <var>daytime</var>
                 <str>$e{mctime}</str>
@@ -70,7 +92,7 @@
                     </or>
                 </and>
                 <concat>
-                    <str>$aOre$f Chunk</str>
+                    <str>This is an $2ore$f chunk.</str>
                 </concat>
             </if>
         </line>
