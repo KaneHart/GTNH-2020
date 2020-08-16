@@ -20,6 +20,17 @@
       "id": 15,
       "playerPermissions": {},
       "groupPermissions": {}
+    },
+    "7": {
+      "dimensionID": 7,
+      "areaZones": [],
+      "id": 1,
+      "playerPermissions": {},
+      "groupPermissions": {
+        "_ALL_": {
+          "some.test.permission": "true"
+        }
+      }
     }
   },
   "playerGroups": {
@@ -29,7 +40,7 @@
     "(0d15294c-e292-49b3-9827-1e9e3bf36bd7|ElectroBot)": [
       "admin"
     ],
-    "(87f78184-3b3c-43ed-baf8-e934abea56f2|EnderArcher)": [
+    "(87f78184-3b3c-43ed-baf8-e934abea56f2|Enderarcher)": [
       "admin"
     ]
   },
@@ -48,19 +59,26 @@
       "fe.internal.player.known": "true"
     },
     "(88d1fcdc-0b18-442a-b78f-6fa25acabb97|Kane_Hart)": {
-      "fe.internal.player.groups": "admin",
-      "fe.internal.player.known": "true"
+      "fe.internal.player.groups": "admin"
     },
     "(0d15294c-e292-49b3-9827-1e9e3bf36bd7|ElectroBot)": {
-      "fe.internal.player.groups": "admin",
+      "fe.internal.player.groups": "admin"
+    },
+    "(87f78184-3b3c-43ed-baf8-e934abea56f2|Enderarcher)": {
+      "fe.internal.player.groups": "admin"
+    },
+    "(2001c9aa-bbf8-306c-9b60-485e8cc6e215|$NPC)": {
       "fe.internal.player.known": "true"
     },
-    "(87f78184-3b3c-43ed-baf8-e934abea56f2|EnderArcher)": {
-      "fe.internal.player.groups": "admin",
+    "(828653ca-0185-43d4-b26d-620a7f016be6|@Kane Hart)": {
+      "fe.internal.player.known": "true"
+    },
+    "(a66dcb9b-2051-4656-8b19-adbc1fa0dca9|DRD_1812)": {
       "fe.internal.player.known": "true"
     }
   },
-  "groupPermissions": {    "_PLAYERS_": {
+  "groupPermissions": {
+    "_PLAYERS_": {
       "fe.internal.group.priority": "1",
       "fe.internal.group": "true"
     },
@@ -75,22 +93,22 @@
       "fe.protection.*": "true"
     },
     "_OPS_": {
+      "fe.teleport.crossdim.portalto": "false",
       "fe.internal.prefix": "\u0026a",
+      "fe.teleport.crossdim.portalfrom": "false",
       "fe.internal.group.priority": "60",
       "fe.internal.group": "true",
       "fe.internal.group.includes": "admin",
       "command.*": "true",
       "fe.teleport.portalto": "false",
-      "fe.teleport.portalfrom": "false",
-      "fe.teleport.crossdim.portalto": "false",
-      "fe.teleport.crossdim.portalfrom": "false"
+      "fe.teleport.portalfrom": "false"
     },
     "_ALL_": {
       "some.test.permission": "true",
       "fe.internal.group.name": "players",
       "fe.internal.group.priority": "0",
       "fe.internal.group": "true",
-      "fe.internal.spawn.location": "[0.5718450996900164,74.0,-10.959836816672851,dim\u003d0,pitch\u003d-24.000027,yaw\u003d-359.68152]"
+      "fe.internal.spawn.location": "[0.5,12.0,0.5,dim\u003d0,pitch\u003d1.2000229,yaw\u003d-181.03154]"
     },
     "_CREATIVE_": {
       "fe.internal.group": "true"
@@ -99,38 +117,39 @@
       "fe.internal.group": "true"
     },
     "_GUESTS_": {
-      "fe.internal.player.name": "\u0026b",
-      "fe.chat.playerformat": "\u0026b",
+      "fe.protection.place.minecraft.portal": "false",
+      "command.tps": "true",
+      "command.foodlist": "true",
+      "command.list": "true",
+      "fe.teleport.to": "true",
+      "fe.teleport.crossdim.portalfrom": "false",
       "fe.internal.group.priority": "10",
+      "fe.commands.seen": "true",
       "fe.internal.group": "true",
-      "command.*": "false",
-      "fe.commands.*": "false",
+      "fe.commands.help": "true",
+      "fe.commands.ping": "true",
+      "command.tell": "true",
+      "fe.chat.reply": "true",
+      "fe.teleport.warmup": "0",
+      "fe.pl.*": "false",
+      "fe.chat.playerformat": "\u0026b",
+      "fe.teleport.*": "false",
+      "fe.chat.urls": "true",
+      "fe.teleport.portalfrom": "false",
+      "fe.chat.pm": "true",
       "fe.questioner.*": "false",
       "fe.perm.*": "false",
-      "fe.protection.cmd.*": "false",
-      "fe.chat.*": "false",
-      "fe.pl.*": "false",
-      "fe.teleport.*": "false",
-      "fe.core.pos.*": "false",
-      "command.list": "true",
-      "command.tell": "true",
-      "command.tps": "true",
-      "fe.chat.pm": "true",
-      "fe.chat.reply": "true",
-      "fe.chat.chat": "true",
-      "fe.chat.urls": "true",
-      "fe.commands.seen": "true",
-      "fe.commands.ping": "true",
-      "fe.commands.help": "true",
-      "fe.teleport.from": "true",
-      "fe.teleport.to": "true",
       "fe.teleport.cooldown": "0",
-      "fe.teleport.warmup": "0",
+      "fe.teleport.from": "true",
+      "fe.protection.cmd.*": "false",
+      "command.*": "false",
       "fe.teleport.portalto": "false",
-      "fe.teleport.portalfrom": "false",
       "fe.teleport.crossdim.portalto": "false",
-      "fe.teleport.crossdim.portalfrom": "false",
-      "fe.protection.place.minecraft.portal": "false"
+      "fe.commands.*": "false",
+      "fe.chat.*": "false",
+      "fe.chat.chat": "true",
+      "fe.internal.player.name": "\u0026b",
+      "fe.core.pos.*": "false"
     },
     "supporter": {
       "fe.internal.prefix": "\u0026b",
@@ -139,34 +158,34 @@
       "fe.internal.group.includes": "_GUESTS_"
     },
     "moderator": {
-      "fe.internal.prefix": "\u0026b",
+      "fe.teleport.to": "true",
+      "fe.teleport.cooldown": "0",
+      "fe.teleport.top": "0",
       "fe.internal.group.priority": "40",
+      "fe.teleport.bed": "0",
       "fe.internal.group": "true",
+      "fe.teleport.from": "true",
       "fe.internal.group.includes": "supporter",
+      "fe.teleport.tp.others": "true",
+      "fe.teleport.back": "true",
       "fe.commands.locate": "true",
       "fe.commands.tempban": "true",
-      "command.ban": "true",
-      "command.pardon": "true",
       "fe.chat.mute": "true",
-      "fe.teleport.tp": "true",
-      "fe.teleport.tp.others": "true",
-      "fe.teleport.from": "true",
-      "fe.teleport.to": "true",
-      "fe.teleport.back": "true",
-      "fe.teleport.spawn": "true",
-      "fe.teleport.cooldown": "0",
       "fe.teleport.warmup": "0",
-      "fe.teleport.top": "0",
-      "fe.teleport.bed": "0"
+      "fe.teleport.spawn": "true",
+      "fe.internal.prefix": "\u0026b",
+      "command.pardon": "true",
+      "command.ban": "true",
+      "fe.teleport.tp": "true"
     },
     "admin": {
       "fe.internal.prefix": "\u0026a",
+      "command.deop": "true",
       "fe.chat.playerformat": "\u0026a",
       "fe.internal.group.priority": "50",
+      "command.op": "true",
       "fe.internal.group": "true",
       "fe.internal.group.includes": "moderator",
-      "command.op": "true",
-      "command.deop": "true",
       "fe.commands.invsee": "true"
     }
   }
