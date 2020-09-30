@@ -27,7 +27,7 @@ settings:
   sample-count: 12
   netty-threads: -1
   timeout-time: 90
-  restart-on-crash: true
+  restart-on-crash: false
   restart-script: ./start.sh
   player-shuffle: 0
   bungeecord: false
@@ -45,7 +45,7 @@ world-settings:
       item: 2.5
     use-async-lighting: false
     view-distance: 7
-    enable-zombie-pigmen-portal-spawns: true
+    enable-zombie-pigmen-portal-spawns: false
     entity-tracking-range:
       players: 48
       animals: 48
@@ -63,7 +63,7 @@ world-settings:
       pumpkin-modifier: 100
       sapling-modifier: 100
       wheat-modifier: 100
-    save-structure-info: true
+    save-structure-info: false
     random-light-updates: false
     entity-activation-range:
       animals: 32
