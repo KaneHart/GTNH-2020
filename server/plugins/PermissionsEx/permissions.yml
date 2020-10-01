@@ -110,3 +110,8 @@ users:
     - Administrator
     options:
       name: Enderarcher
+  d10f03c9-ef80-4823-8152-bef34c8db93f:
+    group:
+    - Administrator
+    options:
+      name: James_Bendis
