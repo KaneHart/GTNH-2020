@@ -81,6 +81,7 @@ groups:
     - essentials.banip
     - essentials.broadcast
     - essentials.gc
+    - net.minecraftforge.server.command.forgecommand
     - essentials.tp
     - essentials.back
     - bukkit.command.stop
