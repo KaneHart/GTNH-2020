@@ -74,7 +74,8 @@ groups:
     - essentials.seen.ipsearch
     - essentials.helpop.receive
     - essentials.top
-    - essentials.teleport.timer.bypass
+    - essentials.teleport.cooldown.*
+    - essentials.teleport.timer.*
     - essentials.whois
     - essentials.geoip.show
     - essentials.unbanip
@@ -84,6 +85,7 @@ groups:
     - net.minecraftforge.server.command.forgecommand
     - essentials.tp
     - essentials.back
+    - bukkit.command.op
     - bukkit.command.stop
     - essentials.near.*
     - com.sk89q.worldedit.*
