@@ -1,0 +1,31 @@
+gpu1 = component.get("9ed2")
+gpu2 = component.get("0bdc")
+curBunker = 1
+discovered = 0
+
+online = 0
+firstrun = 3
+nepasttrips = 1
+tfpasttrips = 1
+endpasttrips = 1
+daysleft = 0
+triyear = 0
+napcount = 0
+
+items = {
+	{ "minecraft:flint_and_steel",  0, "Flint and Steel", ""},
+	{ "dreamcraft:item.TwilightCrystal",  0, "Quick and Dirty Portal Generator", ""},
+	{ "StevesCarts:ModuleComponents",  45, "Eye of Galgador", ""}
+}
+
+bunker = {
+	{ "A", "NE", "TF", "X ", "ZVQN-NXV-A7", "NWEM-Y83-FA", "X ", "-6,840/1,680", 10, 16, "BWNA-EU5-T1"},
+	{ "B", "X ", "NE", "EN", "X ", "96NS-ORI-1R", "BFFL-0PS-77", "-2,105/5,925", 20, 20, "H58U-50U-GN"},
+	{ "C", "TF", "NE", "X ", "MD1K-15L-UD", "G8UR-FHL-QG", "X ", "1,655/6,309", 32, 20, "QDZK-38H-IW"},
+	{ "D", "TF", "X ", "EN", "2SVX-ORK-1R", "X ", "BFFL-0PS-77", "6,277/1,800", 42, 16, "2SVX-ORK-1R"},
+	{ "E", "EN", "X ", "NE", "BFFL-0PS-77", "X ", "UNAJ-8CJ-Z8", "6,039/-1,947", 42, 10, "6MAW-FDB-3Z"},
+	{ "F", "EN", "X ", "TF", "BFFL-0PS-77", "X ", "412R-PYV-01", "1,927/-6,475", 32, 5, "I19Y-WM6-YD"},
+	{ "G", "NE", "EN", "X ", "1CNC-Q8R-CB", "BFFL-0PS-77", "X ", "-1,913/-6,059", 20, 5, "56Y2-YXK-RC"},
+	{ "H", "X ", "TF", "NE", "X ", "4GH8-A9Q-BO", "TF0G-DST-KZ", "-5,865/-2,107", 12, 10, "WGYX-PMK-SF"},
+	{ "I", "X ", "EN", "TF", "X ", "BFFL-0PS-77", "COQG-L0U-64", "1,352/1,114", 31, 15, "COKA-L66-ZO"}
+}

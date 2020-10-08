@@ -1,41 +1,12 @@
-local component = require("component")
+component = require("component")
+
+dofile("data")
+
 local meController = component.proxy(component.me_controller.address)
 local gpu = component.gpu
 local w,h = gpu.getResolution()
 local sg = component.getPrimary("stargate")
 local sides = require("sides")
-
-local gpu1 = component.get("8465")
-local gpu2 = component.get("fc12")
-local curBunker = 1
-local discovered = 0
-local online = 0
-
-local firstrun = 3
-local nepasttrips = 1
-local tfpasttrips = 1
-local endpasttrips = 1
-local daysleft = 0
-local triyear = 0
-local napcount = 0
-
-items = {
-	{ "minecraft:flint_and_steel",  0, "Flint and Steel", ""},
-	{ "dreamcraft:item.TwilightCrystal",  0, "Quick and Dirty Portal Generator", ""},
-	{ "StevesCarts:ModuleComponents",  45, "Eye of Galgador", ""}
-}
-
-bunker = {
-	{ "A", "NE", "TF", "X ", "ZVQN-NXV-A7", "NWEM-Y83-FA", "X ", "-6,840/1,680", 10, 16},
-	{ "B", "X ", "NE", "EN", "X ", "96NS-ORI-1R", "BFFL-0PS-77", "-2,105/5,925", 20, 20},
-	{ "C", "TF", "NE", "X ", "MD1K-15L-UD", "G8UR-FHL-QG", "X ", "1,655/6,309", 32, 20},
-	{ "D", "TF", "X ", "EN", "2SVX-ORK-1R", "X ", "BFFL-0PS-77", "6,277/1,800", 42, 16},
-	{ "E", "EN", "X ", "NE", "BFFL-0PS-77", "X ", "UNAJ-8CJ-Z8", "6,039/-1,947", 42, 10},
-	{ "F", "EN", "X ", "TF", "BFFL-0PS-77", "X ", "412R-PYV-01", "1,927/-6,475", 32, 5},
-	{ "G", "NE", "EN", "X ", "1CNC-Q8R-CB", "BFFL-0PS-77", "X ", "-1,913/-6,059", 20, 5},
-	{ "H", "X ", "TF", "NE", "X ", "4GH8-A9Q-BO", "TF0G-DST-KZ", "-5,865/-2,107", 12, 10},
-	{ "I", "X ", "EN", "TF", "X ", "BFFL-0PS-77", "COQG-L0U-64", "1,352/1,114", 31, 15}
-}
 
 function grid()
 	gpu.bind(gpu2, false)
@@ -58,7 +29,7 @@ function gatemap()
 	gpu.setForeground(0x00FF00)
 	gpu.set( 10, 24, "You are here" )
 	gpu.setForeground(0xFF0000)
-	gpu.set( 65, 2, "3 Year Cycle" )
+	gpu.set( 65, 1, "3 Year Cycle" )
 	gpu.set( 64, 2, "Bunker Y1/Y2/Y3" )
 	gpu.setForeground(0xFFFFFF)
 	gpu.set( 36, 24, "Days left in current Year:" )
