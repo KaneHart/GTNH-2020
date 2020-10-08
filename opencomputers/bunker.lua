@@ -11,6 +11,7 @@ local curBunker = 1
 local discovered = 0
 local online = 0
 
+local firstrun = 3
 local nepasttrips = 1
 local tfpasttrips = 1
 local endpasttrips = 1
@@ -174,26 +175,39 @@ function active()
 				name = curmodName,
 				damage = curDamage
 			})
-			if bunker[curBunker][triyear + 1] == "NE" then
-				gpu.set( 11, 15, "Destination: Nether         " )
-				gpu.set( 24, 17, "Flint and Steel                 " )
-				if storedItem[1].label == items[1][3] and storedItem[1].size > nepasttrips then
-					nepasttrips = nepasttrips + 1
-					outgoinggate()
+			if firstrun > 0 then
+				if storedItem[1].label == items[1][3] then
+					nepasttrips = storedItem[1].size
+					firstrun = firstrun - 1
+				elseif storedItem[1].label == items[2][3] then
+					tfpasttrips = storedItem[1].size
+					firstrun = firstrun - 1
+				elseif storedItem[1].label == items[3][3] then
+					endpasttrips = storedItem[1].size
+					firstrun = firstrun - 1
 				end
-			elseif bunker[curBunker][triyear + 1] == "TF" then
-				gpu.set( 11, 15, "Destination: Twilight Forest" )
-				gpu.set( 24, 17, "Quick and Dirty Portal Generator" )
-				if storedItem[1].label == items[2][3] and storedItem[1].size > tfpasttrips then
-					tfpasttrips = tfpasttrips + 1
-					outgoinggate()
-				end
-			elseif bunker[curBunker][triyear + 1] == "EN" then
-				gpu.set( 11, 15, "Destination: End Dimension  " )
-				gpu.set( 24, 17, "Eye of Galgador                 " )
-				if storedItem[1].label == items[3][3] and storedItem[1].size > endpasttrips then
-					endpasttrips = endpasttrips + 1
-					outgoinggate()
+			else
+				if bunker[curBunker][triyear + 1] == "NE" then
+					gpu.set( 11, 15, "Destination: Nether         " )
+					gpu.set( 24, 17, "Flint and Steel                 " )
+					if storedItem[1].label == items[1][3] and storedItem[1].size > nepasttrips then
+						nepasttrips = nepasttrips + 1
+						outgoinggate()
+					end
+				elseif bunker[curBunker][triyear + 1] == "TF" then
+					gpu.set( 11, 15, "Destination: Twilight Forest" )
+					gpu.set( 24, 17, "Quick and Dirty Portal Generator" )
+					if storedItem[1].label == items[2][3] and storedItem[1].size > tfpasttrips then
+						tfpasttrips = tfpasttrips + 1
+						outgoinggate()
+					end
+				elseif bunker[curBunker][triyear + 1] == "EN" then
+					gpu.set( 11, 15, "Destination: End Dimension  " )
+					gpu.set( 24, 17, "Eye of Galgador                 " )
+					if storedItem[1].label == items[3][3] and storedItem[1].size > endpasttrips then
+						endpasttrips = endpasttrips + 1
+						outgoinggate()
+					end
 				end
 			end
 		end
