@@ -121,6 +121,8 @@ end
 
 function nap()
 	os.sleep(5)
+	gpu.bind(gpu2, false)
+	clearScreen()
 	gpu.bind(gpu1, false)
 	clearScreen()
 	gpu.setForeground(0xFF0000)
