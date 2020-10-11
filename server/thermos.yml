@@ -7,7 +7,7 @@
 # Setting: command.enable Default: true # Enable Thermos command
 
 updatechecker:
-  enable: false
+  enable: true
   quiet: false
 common:
   allowNetherPortalBesidesOverworld: false
