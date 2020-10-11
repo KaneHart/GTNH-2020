@@ -22,7 +22,7 @@ settings:
   use-exact-login-location: false
   plugin-profiling: false
   connection-throttle: 4000
-  query-plugins: false
+  query-plugins: true
   deprecated-verbose: default
   shutdown-message: Server closed
 spawn-limits:
