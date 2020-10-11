@@ -73,8 +73,6 @@ groups:
     - essentials.seen.extra
     - essentials.seen.ipsearch
     - essentials.helpop.receive
-    - essentials.tp.*
-    - essentials.home
     - essentials.top
     - essentials.teleport.cooldown.*
     - essentials.teleport.timer.*
