@@ -13,7 +13,7 @@
 # Setting: debug.enable-te-place-warning Default: false   # Warn when a mod requests tile entity from a block that doesn't support one
 
 settings:
-  skip-tileentity-ticks: false
+  skip-tileentity-ticks: true
   prevent-invalid-tileentity-updates: true
 debug:
   enable-te-inventory-warning: false
