@@ -21,7 +21,7 @@ settings:
   ping-packet-limit: 100
   use-exact-login-location: false
   plugin-profiling: false
-  connection-throttle: 0
+  connection-throttle: 4000
   query-plugins: false
   deprecated-verbose: default
   shutdown-message: Server closed
